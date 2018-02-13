@@ -14,27 +14,27 @@ My primary research interests are in deep learning, machine learning and pattern
 
 Experience
 ------
-### Research Assistant | University of Connecticut  
+### 09/2015 - Present Research Assistant | University of Connecticut  
  * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
  * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
  * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
  * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
  * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
-### Co-Investigator | Yale Center for Molecular Discovery, Yale University  
+### 05/2017 - Present Co-Investigator | Yale Center for Molecular Discovery, Yale University  
  * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
  * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
  * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
-### Student Researcher | University of Southern California  
+### 07/2014 - 11/2014 Student Researcher | University of Southern California  
  * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
  * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
-### Visiting Researcher | Institute of Automation, Chinese Academy of Sciences  
+### 03/2015 - 08/2015 Visiting Researcher | Institute of Automation, Chinese Academy of Sciences  
  * Built a high-performance computing platform on GPUs to accelerate deep learning research.
  * Constructed deep learning models to extract image features.
 
-### Research Assistant | Beijing University of Posts and Telecommunications  
+### 09/2012 - 03/2015 Research Assistant | Beijing University of Posts and Telecommunications  
  * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
  * Design and simulate effective congestion control and scheduling algorithms.
 
@@ -42,6 +42,7 @@ Publications
 ------
 __Edge Attention-based Multi-Relational Graph Convolutional Networks__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi 
+[Code](https://github.com/Luckick/EAGCN)
 
 __Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__  
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  
@@ -50,6 +51,7 @@ ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiCom
 __[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
 Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi  
 IEEE Big Data, 2017 (acceptance rate of 18%)
+[Code](https://github.com/chaoshangcs/VIGAN)
 
 __[Fusing Location Data for Depression Prediction](https://pdfs.semanticscholar.org/5023/8495b1a704c7c908155dbf66cbe6e5daca8f.pdf)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang  

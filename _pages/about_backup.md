@@ -16,28 +16,28 @@ Experience
 ------
 
 ### Research Assistant | University of Connecticut  
- * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
- * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
- * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
- * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
- * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
+* Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
+* Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
+* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
+* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
+* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
 ### Co-Investigator | Yale Center for Molecular Discovery, Yale University  
- * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
- * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
- * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
+* Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
+* Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
 ### Student Researcher | University of Southern California  
- * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
- * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
+* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
 ### Visiting Researcher | Institute of Automation, Chinese Academy of Sciences  
- * Built a high-performance computing platform on GPUs to accelerate deep learning research.
- * Constructed deep learning models to extract image features.
+* Built a high-performance computing platform on GPUs to accelerate deep learning research.
+* Constructed deep learning models to extract image features.
 
 ### Research Assistant | Beijing University of Posts and Telecommunications  
- * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
- * Design and simulate effective congestion control and scheduling algorithms.
+* Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
+* Design and simulate effective congestion control and scheduling algorithms.
 
 Publications
 ------

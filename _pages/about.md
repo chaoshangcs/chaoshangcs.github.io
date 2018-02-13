@@ -10,37 +10,39 @@ redirect_from:
 
 I am a Ph.D. student in the Computer Science and Engineering Department, University of Connecticut. My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in University of Southern California (2014) and Chinese Academic of Science (2015).
 
-My primary research interests are in deep learning, machine learning and pattern recognition using large-scale datasets, with an emphasis on healthcare informatics, online social networks and bioinformatics. 
+My primary research interests are in deep learning, machine learning and pattern recognition using large-scale datasets, with an emphasis on healthcare informatics, online social networks, cheminformatics and bioinformatics. 
 
 Experience
 ------
 
 ### Research Assistant | University of Connecticut  
-* Designed deep learning, machine learning methods to improve diseases detection, drug discovery & precision medicine. 
+* Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
+* Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
 * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
 * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
-* Constructed the deep neural networks on graphs for node embedding and graph embedding.
 
 ### Co-Investigator | Yale Center for Molecular Discovery, Yale University  
 * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
-* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings - text sequences, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
 ### Student Researcher | University of Southern California  
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
-* Implemented script codes to extract the patterns, relevant terms and its associated parameters for Chevron Corporation.
+* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
 ### Visiting Researcher | Institute of Automation, Chinese Academy of Sciences  
 * Built a high-performance computing platform on GPUs to accelerate deep learning research.
-* Constructed deep learning models to extract image features via open source deep learning framework Caffe.
+* Constructed deep learning models to extract image features.
 
 ### Research Assistant | Beijing University of Posts and Telecommunications  
-* Analyzed the limitations of Wireless Sensor Network (WSN), Information Centric Networking (ICN), etc. 
-* Collaborated cross team to design and simulate effective congestion control and scheduling algorithms.
+* Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
+* Design and simulate effective congestion control and scheduling algorithms.
 
 Publications
 ------
+__Edge Attention-based Multi-Relational Graph Convolutional Networks__  
+Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi 
 
 __Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__  
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  

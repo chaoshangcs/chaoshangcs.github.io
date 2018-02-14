@@ -43,6 +43,7 @@ Experience
  * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
  * Design and simulate effective congestion control and scheduling algorithms.
 
+
 Publications
 ------
 __Edge Attention-based Multi-Relational Graph Convolutional Networks__  
@@ -72,13 +73,11 @@ International Journal of Distributed Sensor Networks, 2014
 
 X Machine Learning(XML) Group
 ------
-
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
 
 
 Contact
 ------
-
 Email: chao.shang AT uconn.edu  
 Address: 371 Fairfield Way, Unit 4155, Storrs, Conntecticut 06269
 

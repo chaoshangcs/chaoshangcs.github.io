@@ -48,7 +48,7 @@ Publications
 ------
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944.pdf)__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi  
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2018, Submitted  [Code](https://github.com/Luckick/EAGCN)
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2018, Submitted  [Code](https://github.com/Luckick/EAGCN)
 
 __Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__  
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  
@@ -56,7 +56,7 @@ ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiCom
 
 __[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
 Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi   
-IEEE Big Data, 2017 (acceptance rate of 18%)  [Code](https://github.com/chaoshangcs/VIGAN)
+IEEE International Conference on Big Data (BIGDATA), 2017 (acceptance rate of 18%)  [Code](https://github.com/chaoshangcs/VIGAN)
 
 __[Fusing Location Data for Depression Prediction](https://pdfs.semanticscholar.org/5023/8495b1a704c7c908155dbf66cbe6e5daca8f.pdf)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang  

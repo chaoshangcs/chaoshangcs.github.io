@@ -50,7 +50,7 @@ __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://a
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2018, Submitted  [Code](https://github.com/Luckick/EAGCN)
 
-__Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning__  
+__[Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning](https://dl.acm.org/citation.cfm?id=3191753)__  
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  
 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
 

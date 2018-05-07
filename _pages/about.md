@@ -32,12 +32,12 @@ Experience
  * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
  * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
-### Student Researcher | University of Southern California  
+### Research Assistant | University of Southern California  
 07/2014 - 11/2014 
  * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
  * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
-### Visiting Researcher | Institute of Automation, Chinese Academy of Sciences  
+### Research Intern | Institute of Automation, Chinese Academy of Sciences  
 03/2015 - 08/2015 
  * Built a high-performance computing platform on GPUs to accelerate deep learning research.
  * Constructed deep learning models to extract image features.

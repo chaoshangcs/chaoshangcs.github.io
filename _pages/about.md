@@ -22,8 +22,9 @@ Experience
  * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
  * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
  
-### Research Intern | JD AI Research
+### Research Scientist Intern | JD AI Research, JD.COM Silicon Valley Research Center
 05/2018 - Present 
+Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
  * Deep Knowledge Graph Learning
 
 ### Co-Investigator | Yale Center for Molecular Discovery, Yale University  

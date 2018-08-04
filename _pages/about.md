@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Science and Engineering Department, University of Connecticut. My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in University of Southern California (2014), Chinese Academic of Science (2015) and [JD AI Research](http://air.jd.com/) (2018).
+I am a Ph.D. student in the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015) and [JD AI Research](http://air.jd.com/) (2018).
 
 My primary research interests are in deep learning, machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 

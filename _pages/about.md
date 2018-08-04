@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Science and Engineering Department, University of Connecticut. My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in University of Southern California (2014) and Chinese Academic of Science (2015).
+I am a Ph.D. student in the Computer Science and Engineering Department, University of Connecticut. My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in University of Southern California (2014), Chinese Academic of Science (2015) and [JD AI Research](http://air.jd.com/) (2018).
 
-My primary research interests are in deep learning, machine learning and pattern recognition using large-scale datasets, with an emphasis on healthcare informatics, online social networks, cheminformatics and bioinformatics. 
+My primary research interests are in deep learning, machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 Experience
 ------
@@ -23,10 +23,10 @@ Experience
  * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
  
 ### Research Scientist Intern | JD AI Research, JD.COM Silicon Valley Research Center
-05/2018 - Present 
-
-Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
- * Deep Knowledge Graph Learning
+05/2018 - Present    
+ * Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
+ * Topic: Deep Knowledge Graphs Learning
+ * Methods: Graph convolutional neural network for the link prediction and knowledge graph completion.
 
 ### Co-Investigator | Yale Center for Molecular Discovery, Yale University  
 05/2017 - 03/2018

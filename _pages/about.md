@@ -82,6 +82,19 @@ X Machine Learning(XML) Group
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics.
 
 
+Awards
+------
+* 2017 IEEE International Conference on Big Data, Student Travel Award.
+* 2018 Predoctoral Honorable Mention Award.
+* 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
+
+
+Professional Services
+------
+* Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
+* Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference.
+
+
 Contact
 ------
 Email: chao.shang AT uconn.edu  

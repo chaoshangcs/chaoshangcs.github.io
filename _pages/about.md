@@ -12,7 +12,7 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 
 My primary research interests are in deep learning, machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
-Experience
+Selected Experience
 ------
 ### Research Assistant | University of Connecticut  
 09/2015 - Present 
@@ -25,7 +25,7 @@ Experience
 ### Research Scientist Intern | JD AI Research, JD.COM Silicon Valley Research Center
 05/2018 - Present    
  * Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
- * Topic: Deep Knowledge Graphs Learning
+ * Project: Deep Knowledge Graphs Learning
  * Methods: Graph convolutional neural network for the link prediction and knowledge graph completion.
 
 ### Co-Investigator | Yale Center for Molecular Discovery, Yale University  
@@ -84,9 +84,10 @@ X Machine Learning(XML) Group
 
 Awards
 ------
-* 2017 IEEE International Conference on Big Data, Student Travel Award.
 * 2018 Predoctoral Honorable Mention Award.
 * 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
+* 2017 IEEE International Conference on Big Data, Student Travel Award.
+* 2014 National Scholarship for Graduate Students.
 
 
 Professional Services

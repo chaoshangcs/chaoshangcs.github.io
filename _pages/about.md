@@ -25,7 +25,7 @@ Selected Experience
 ### Research Scientist Intern | JD AI Research, JD.COM Silicon Valley Research Center
 05/2018 - Present    
  * Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
- * Project: Deep Knowledge Graphs Learning
+ * Project: Deep Knowledge Graphs Learning from [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)
  * Methods: Graph convolutional neural network for the link prediction and knowledge graph completion.
 
 ### Co-Investigator | Yale Center for Molecular Discovery, Yale University  

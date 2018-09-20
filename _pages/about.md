@@ -22,13 +22,13 @@ Selected Experience
  * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
  * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
  
-### Research Scientist Intern | JD AI Research, JD.COM Silicon Valley Research Center
+### Research Intern | JD AI Research, JD.COM Silicon Valley Research Center
 05/2018 - Present    
  * Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
  * Project: Deep Knowledge Graphs Learning from [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)
- * Methods: Graph convolutional neural network for the link prediction and knowledge graph completion.
+ * Methods: Structure-aware graph convolutional neural network for the link prediction and knowledge graph completion.
 
-### Co-Investigator | Yale Center for Molecular Discovery, Yale University  
+### Co-Researcher | Yale Center for Molecular Discovery, Yale University  
 05/2017 - 03/2018
  * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
  * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.

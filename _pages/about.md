@@ -94,7 +94,7 @@ Professional Services
 ------
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference.
-
+* Reviewer of PLOS ONE journal.
 
 Contact
 ------

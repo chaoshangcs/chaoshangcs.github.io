@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## Biography
 
 I am a Ph.D. student in the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015) and [JD AI Research](http://air.jd.com/) (2018).
 
@@ -15,10 +16,8 @@ My primary research interests are in deep learning, machine learning and deep gr
 
 
 ## Selected Experience
-
 ### Research Assistant | University of Connecticut  
-[Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/)
-09/2015 - Present 
+09/2015 - Present  [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/)
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
 * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
@@ -26,22 +25,19 @@ My primary research interests are in deep learning, machine learning and deep gr
 * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
 ### Research Intern | JD AI Research, JD.COM Silicon Valley Research Center
-[SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)
-05/2018 - 09/2018    
+05/2018 - 09/2018   [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
 * Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
 * Project: Deep Knowledge Graphs Learning from SAIL-JD Knowledge Graph Research Program
 * Methods: Structure-aware graph convolutional neural network for the link prediction and knowledge graph completion.
 
 ### Co-Researcher | Yale Center for Molecular Discovery, Yale University  
-[Machine Learning for Drug Discovery & Development](https://mlddd-ct.github.io/) 
-05/2017 - 03/2018
+05/2017 - 03/2018  [Machine Learning for Drug Discovery & Development](https://mlddd-ct.github.io/) 
 * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
 ### Research Assistant | University of Southern California  
-[Data Science Laboratory](http://dslab.usc.edu/)
-07/2014 - 11/2014 
+07/2014 - 11/2014  [Data Science Laboratory](http://dslab.usc.edu/)
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
@@ -58,27 +54,31 @@ My primary research interests are in deep learning, machine learning and deep gr
 ## Publications
 
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
-Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi  
+Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 
 arXiv preprint arXiv:1802.04944, 2018.  [Code](https://github.com/Luckick/EAGCN)
 
 __[Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning](https://dl.acm.org/citation.cfm?id=3191753)__  
-Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi  
+Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi. 
 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
 
+__[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)__ 
+Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
+IEEE Transactions on Big Data, 2018.
+
 __[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
-Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi   
+Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi.    
 IEEE International Conference on Big Data (BIGDATA), 2017 (acceptance rate of 18%)  [Code](https://github.com/chaoshangcs/VIGAN)
 
-__[Fusing Location Data for Depression Prediction](https://pdfs.semanticscholar.org/5023/8495b1a704c7c908155dbf66cbe6e5daca8f.pdf)__  
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang  
+__[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/document/8397515)__  
+Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
 IEEE Ubiquitous Intelligence & Computing (UIC), 2017
 
 __[Event Extraction from Unstructured Text Data](https://link.springer.com/chapter/10.1007/978-3-319-22849-5_38)__  
-Chao Shang, Anand Panangadan, and Victor K. Prasanna  
+Chao Shang, Anand Panangadan, and Victor K. Prasanna.   
 International Conference on Database and Expert Systems Applications (DEXA), 2015
 
 __[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
-Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang  
+Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.   
 International Journal of Distributed Sensor Networks, 2014
 		
 

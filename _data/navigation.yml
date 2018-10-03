@@ -1,22 +1,22 @@
 # main links links
 main:
-  #- title: "Research"
-  #  url: /research/ 
+  - title: "Blog"
+    url: https://xmachinelearning.github.io
+
+  - title: "Research"
+    url: /research/ 
   
   #- title: "Publications"
   #  url: /publications/  
 
-  #- title: "Lab"
-  #  url: http://www.labhealthinfo.uconn.edu/
-
-  #- title: "Blog"
-  #  url: https://xmachinelearning.github.io
+  - title: "Lab"
+    url: http://www.labhealthinfo.uconn.edu/
     
   #- title: "CV"
   #  url: /cv/
 
-  #- title: "Personal"
-  #  url: http://chaoshang.weebly.com/personal.html
+  - title: "Personal"
+    url: http://chaoshang.weebly.com/personal.html
     
   #- title: "Guide"
   #  url: /markdown/

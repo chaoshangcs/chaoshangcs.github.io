@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
+I am a Ph.D. student in the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015) and [JD AI Research](http://air.jd.com/) (2018).
 
-I am a Ph.D. student in the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015) and [JD AI Research](http://air.jd.com/) (2018).
-
-My primary research interests are in deep learning, machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
+My primary research interests are in machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 
 ## Selected Experience
@@ -82,16 +80,14 @@ Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.
 International Journal of Distributed Sensor Networks, 2014
 		
 
-## X Machine Learning(XML) Group
-[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
-
-
 ## Awards
 * 2018 Predoctoral Honorable Mention Award.
 * 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
 * 2017 IEEE International Conference on Big Data, Student Travel Award.
 * 2014 National Scholarship for Graduate Students.
 
+## X Machine Learning(XML) Group
+[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 
 ## Professional Services
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.

@@ -17,43 +17,43 @@ My primary research interests are in deep learning, machine learning and deep gr
 ## Selected Experience
 
 ### Research Assistant | University of Connecticut  
->[Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/)
->09/2015 - Present 
->* Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
->* Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
->* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
->* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
->* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
+[Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/)
+09/2015 - Present 
+* Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
+* Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
+* Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
+* Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
+* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
 ### Research Intern | JD AI Research, JD.COM Silicon Valley Research Center
-> [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)
-> 05/2018 - 09/2018    
-> * Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
-> * Project: Deep Knowledge Graphs Learning from SAIL-JD Knowledge Graph Research Program
-> * Methods: Structure-aware graph convolutional neural network for the link prediction and knowledge graph completion.
+[SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)
+05/2018 - 09/2018    
+* Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
+* Project: Deep Knowledge Graphs Learning from SAIL-JD Knowledge Graph Research Program
+* Methods: Structure-aware graph convolutional neural network for the link prediction and knowledge graph completion.
 
 ### Co-Researcher | Yale Center for Molecular Discovery, Yale University  
->[Machine Learning for Drug Discovery & Development](https://mlddd-ct.github.io/) 
-> 05/2017 - 03/2018
-> * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
-> * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
-> * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
+[Machine Learning for Drug Discovery & Development](https://mlddd-ct.github.io/) 
+05/2017 - 03/2018
+* Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
+* Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
+* Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
 ### Research Assistant | University of Southern California  
-> [Data Science Laboratory](http://dslab.usc.edu/)
-> 07/2014 - 11/2014 
-> * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
-> * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
+[Data Science Laboratory](http://dslab.usc.edu/)
+07/2014 - 11/2014 
+* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
 ### Research Intern | Institute of Automation, Chinese Academy of Sciences  
-> 03/2015 - 08/2015 
-> * Built a high-performance computing platform on GPUs to accelerate deep learning research.
-> * Constructed deep learning models to extract image features.
+03/2015 - 08/2015 
+* Built a high-performance computing platform on GPUs to accelerate deep learning research.
+* Constructed deep learning models to extract image features.
 
 ### Research Assistant | Beijing University of Posts and Telecommunications 
-> 09/2012 - 03/2015  
-> * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
-> * Design and simulate effective congestion control and scheduling algorithms.
+09/2012 - 03/2015  
+* Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
+* Design and simulate effective congestion control and scheduling algorithms.
 
 ## Publications
 
@@ -87,16 +87,16 @@ International Journal of Distributed Sensor Networks, 2014
 
 
 ## Awards
-> * 2018 Predoctoral Honorable Mention Award.
-> * 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
-> * 2017 IEEE International Conference on Big Data, Student Travel Award.
-> * 2014 National Scholarship for Graduate Students.
+* 2018 Predoctoral Honorable Mention Award.
+* 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
+* 2017 IEEE International Conference on Big Data, Student Travel Award.
+* 2014 National Scholarship for Graduate Students.
 
 
 ## Professional Services
-> * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
-> * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference.
-> * Reviewer of PLOS ONE journal.
+* Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
+* Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference.
+* Reviewer of PLOS ONE journal.
 
 ## Contact
 Email: chao.shang AT uconn.edu  

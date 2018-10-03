@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Blog"
+  - title: "Learning Group"
     url: https://xmachinelearning.github.io
 
   - title: "Research"
@@ -13,7 +13,10 @@ main:
     url: http://www.labhealthinfo.uconn.edu/
     
   - title: "CV"
-    url: /cv/
+    url: https://www.linkedin.com/in/chaoshang
+    
+  - title: "MLDDD"
+    url: https://mlddd-ct.github.io/
 
   - title: "Personal"
     url: http://chaoshang.weebly.com/personal.html

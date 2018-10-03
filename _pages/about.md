@@ -61,7 +61,7 @@ __[Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Mu
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi. 
 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
 
-__[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)__ 
+__[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
 IEEE Transactions on Big Data, 2018.
 

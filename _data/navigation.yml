@@ -9,8 +9,8 @@ main:
   #- title: "Lab"
   #  url: http://www.labhealthinfo.uconn.edu/
 
-  - title: "Blog"
-    url: https://xmachinelearning.github.io
+  #- title: "Blog"
+  #  url: https://xmachinelearning.github.io
     
   #- title: "CV"
   #  url: /cv/

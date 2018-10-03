@@ -15,7 +15,7 @@ My primary research interests are in machine learning and deep graph learning us
 
 ## Selected Experience
 ### Research Assistant | University of Connecticut  
-- 09/2015 - Present  [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/)
+09/2015 - Present  [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/)
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
 * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
@@ -23,34 +23,33 @@ My primary research interests are in machine learning and deep graph learning us
 * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
 ### Research Intern | JD AI Research, JD.COM Silicon Valley Research Center
-- 05/2018 - 09/2018   [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
+05/2018 - 09/2018   [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
 * Research Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
 * Project: Deep Knowledge Graphs Learning from SAIL-JD Knowledge Graph Research Program
 * Methods: Structure-aware graph convolutional neural network for the link prediction and knowledge graph completion.
 
 ### Co-Researcher | Yale Center for Molecular Discovery, Yale University  
-- 05/2017 - 03/2018  [Machine Learning for Drug Discovery & Development](https://mlddd-ct.github.io/) 
+05/2017 - 03/2018  [Machine Learning for Drug Discovery & Development](https://mlddd-ct.github.io/) 
 * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
 ### Research Assistant | University of Southern California  
-- 07/2014 - 11/2014  [Data Science Laboratory](http://dslab.usc.edu/)
+07/2014 - 11/2014  [Data Science Laboratory](http://dslab.usc.edu/)
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
 ### Research Intern | Institute of Automation, Chinese Academy of Sciences  
-- 03/2015 - 08/2015 
+03/2015 - 08/2015 
 * Built a high-performance computing platform on GPUs to accelerate deep learning research.
 * Constructed deep learning models to extract image features.
 
 ### Research Assistant | Beijing University of Posts and Telecommunications 
-- 09/2012 - 03/2015  
+09/2012 - 03/2015  
 * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
 * Design and simulate effective congestion control and scheduling algorithms.
 
 ## Publications
-
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 
 arXiv preprint arXiv:1802.04944, 2018.  [Code](https://github.com/Luckick/EAGCN)

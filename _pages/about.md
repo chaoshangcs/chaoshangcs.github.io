@@ -87,14 +87,14 @@ International Journal of Distributed Sensor Networks, 2014
 * 2014 National Scholarship for Graduate Students.
 
 ## X Machine Learning(XML) Group
-```
-[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
-```
 
-## Professional Services
-* Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
-* Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference.
-* Reviewer of PLOS ONE journal.
+[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
+
+
+## Professional Services<br/>
+* Reviewer of IEEE Transactions on Neural Networks and Learning Systems.<br/>
+* Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference.<br/>
+* Reviewer of PLOS ONE journal.<br/>
 
 ## Contact
 Email: chao.shang AT uconn.edu  

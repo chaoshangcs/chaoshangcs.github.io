@@ -99,10 +99,9 @@ International Journal of Distributed Sensor Networks, 2014
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
 * Reviewer of PLOS ONE journal.
 
-## TEACHING EXPERIENCE
+## Teaching Experience
 * CSE-1010 Introduction to Computing for Engineers (09/2016-05/2017)
 * CSE-5820 Machine Learning (01/2017-05/2017)
-
 
 ## Contact
 Email: chao.shang AT uconn.edu  

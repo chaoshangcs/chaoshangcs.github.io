@@ -88,6 +88,7 @@ International Journal of Distributed Sensor Networks, 2014
 		
 
 ## Awards
+* AAAI-19 Student Scholarship
 * 2018 Predoctoral Honorable Mention Award.
 * 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
 * 2017 IEEE International Conference on Big Data, Student Travel Award.

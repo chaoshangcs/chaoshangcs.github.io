@@ -13,6 +13,7 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ### Selected Experience
+---
 #### 09/2015 - Present | Research Assistant | University of Connecticut  
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.

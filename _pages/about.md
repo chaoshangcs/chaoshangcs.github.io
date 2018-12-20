@@ -13,35 +13,35 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
-#### 09/2015 - Present | Research Assistant | University of Connecticut 
+**09/2015 - Present | Research Assistant | University of Connecticut**
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
 * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
 * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
-#### 05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center
+**05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 * [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
 * Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
 * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. 
 * Designed a new graph convolutional model utilizing knowledge graph structure, node attributes and relation types.
 * Gained about 10% relative improvement over the state-of-the-art method, and published a KG completion framework.
 
-#### 05/2017 - 03/2018 | Research Assistant  | Yale Center for Molecular Discovery, Yale University 
+**05/2017 - 03/2018 | Research Assistant  | Yale Center for Molecular Discovery, Yale University**
 * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
-#### 07/2014 - 11/2014 | Research Intern | University of Southern California  
+**07/2014 - 11/2014 | Research Intern | University of Southern California**  
 * [Data Science Laboratory](http://dslab.usc.edu/)
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 
-#### 03/2015 - 08/2015 | Research Intern | Institute of Automation, Chinese Academy of Sciences 
+**03/2015 - 08/2015 | Research Intern | Institute of Automation, Chinese Academy of Sciences** 
 * Built a high-performance computing platform on GPUs to accelerate deep learning research.
 * Constructed deep learning models to extract image features.
 
-#### 09/2012 - 03/2015 | Research Assistant | Beijing University of Posts and Telecommunications 
+**09/2012 - 03/2015 | Research Assistant | Beijing University of Posts and Telecommunications** 
 * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
 * Design and simulate effective congestion control and scheduling algorithms.
 
@@ -91,9 +91,7 @@ International Journal of Distributed Sensor Networks, 2014
 * 2014 National Scholarship for Graduate Students.
 
 ## X Machine Learning(XML) Group
-
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
-
 
 ## Professional Services 
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.

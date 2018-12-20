@@ -12,14 +12,15 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 
 My primary research interests are in machine learning and deep graph learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
-### Selected Experience
----
-#### 09/2015 - Present | Research Assistant | University of Connecticut  
+## Selected Experience
+#### 09/2015 - Present | Research Assistant | University of Connecticut 
+```
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
 * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
 * Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
+```
 
 #### 05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center
 * [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
@@ -46,7 +47,7 @@ My primary research interests are in machine learning and deep graph learning us
 * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
 * Design and simulate effective congestion control and scheduling algorithms.
 
-### Publications
+## Publications
 __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://arxiv.org/pdf/1811.04441.pdf)__  
 Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, and Bowen Zhou. 
 The AAAI Conference on Artificial Intelligence (AAAI), 2019. (acceptance rate of 16.2%) [Code](https://github.com/chaoshangcs/SACN-PyTorch)

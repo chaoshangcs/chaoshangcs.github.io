@@ -93,7 +93,8 @@ International Journal of Distributed Sensor Networks, 2014
 ## X Machine Learning(XML) Group
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 
-## Professional Services 
+## Professional Services
+* Program Committee Member of IJCAI-2019
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
 * Reviewer of PLOS ONE journal.

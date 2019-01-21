@@ -48,7 +48,7 @@ My primary research interests are in machine learning and deep graph learning us
 ## Publications
 __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://arxiv.org/pdf/1811.04441.pdf)__  
 Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, and Bowen Zhou. 
-The AAAI Conference on Artificial Intelligence (AAAI), 2019. (acceptance rate of 16.2%) [Code](https://github.com/chaoshangcs/SACN-PyTorch)
+The AAAI Conference on Artificial Intelligence (AAAI), 2019. (acceptance rate of 16.2%) [Code](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
 
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 

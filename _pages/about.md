@@ -50,6 +50,10 @@ __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completi
 Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, and Bowen Zhou. 
 The AAAI Conference on Artificial Intelligence (AAAI), 2019. (acceptance rate of 16.2%) [Code](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
 
+__[Large-scale Automatic Depression Screening Using Meta-data from WiFi Infrastructure](https://dl.acm.org)__  
+Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang,  Jayesh Kamath,  Athanasios Bamis, Jinbo Bi, Alexander Russell and Bing Wang.
+ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2019 (ACM Journal of IMWUT)
+
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 
 arXiv preprint arXiv:1802.04944, 2018.  [Code](https://github.com/Luckick/EAGCN)
@@ -58,17 +62,13 @@ __[Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Mu
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi. 
 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
 
-__[Large-scale Automatic Depression Screening Using Meta-data from WiFi Infrastructure](https://dl.acm.org)__  
-Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang,  Jayesh Kamath,  Athanasios Bamis, Jinbo Bi, Alexander Russell and Bing Wang.
-Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2018.
-
 __[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
-IEEE Transactions on Big Data, 2018.
+IEEE Transactions on Big Data (IEEE TBDATA), 2018.
 
 __[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
 Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi.    
-IEEE International Conference on Big Data (BIGDATA), 2017 (acceptance rate of 18%)  [Code](https://github.com/chaoshangcs/VIGAN)
+IEEE International Conference on Big Data (IEEE BigData), 2017 (acceptance rate of 18%)  [Code](https://github.com/chaoshangcs/VIGAN)
 
 __[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/document/8397515)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
@@ -80,11 +80,11 @@ International Conference on Database and Expert Systems Applications (DEXA), 201
 
 __[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
 Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.   
-International Journal of Distributed Sensor Networks, 2014
+International Journal of Distributed Sensor Networks (IJDSN), 2014
 		
 
 ## Awards
-* AAAI-19 Student Scholarship
+* 2019 AAAI Student Scholarship
 * 2018 Predoctoral Honorable Mention Award.
 * 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
 * 2017 IEEE International Conference on Big Data, Student Travel Award.
@@ -94,7 +94,7 @@ International Journal of Distributed Sensor Networks, 2014
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 
 ## Professional Services
-* Program Committee Member of International Joint Conferences on Artificial Intelligence (IJCAI)
+* Program Committee Member of International Joint Conferences on Artificial Intelligence (IJCAI-2019)
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
 * Reviewer of PLOS ONE journal.

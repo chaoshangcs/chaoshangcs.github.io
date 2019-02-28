@@ -32,7 +32,7 @@ My primary research interests are in machine learning and deep graph learning us
 * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
 
-**07/2014 - 11/2014 | Research Intern | University of Southern California**  
+**07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * [Data Science Laboratory](http://dslab.usc.edu/)
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 * Implemented script codes to extract the patterns, relevant terms and its associated parameters.

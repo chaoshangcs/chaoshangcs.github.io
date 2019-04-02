@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015) and [JD AI Research](http://air.jd.com/) (2018).
+I am a Ph.D. student in the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en). Before I came here, I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015), [JD AI Research](http://air.jd.com/) (2018) and [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019).
 
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
+**05/2019 - Present | Research Intern | IBM Thomas J. Watson Research Center**
+* Knowledge Technology @ IBM Research AI
+* Mentor: Dr. Alfio M. Gliozzo.
+* Develop new methods for knowledge induction in deep domains involving human experts and semantic analysis of documents, including text and tables. 
+
 **09/2015 - Present | Research Assistant | University of Connecticut**
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.

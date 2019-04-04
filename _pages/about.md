@@ -13,8 +13,8 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
-**05/2019 - Present | Research Intern | IBM Thomas J. Watson Research Center**
-* Knowledge Technology @ IBM Research AI
+**05/2019 - Present | Research Intern | IBM Thomas J. Watson Research Center, IBM Research **
+* Knowledge Technology Group @ IBM Research AI
 * Mentor: Dr. Alfio M. Gliozzo.
 * Develop new methods for knowledge induction in deep domains involving human experts and semantic analysis of documents, including text and tables. 
 
@@ -98,7 +98,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 
 ## Professional Services
-* Program Committee Member of International Joint Conferences on Artificial Intelligence (IJCAI-2019).
+* Program Committee Member of International Joint Conferences on Artificial Intelligence (IJCAI 2019).
 * Program Committee Member of ECML-PKDD 2019.
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 

@@ -13,7 +13,7 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
-**05/2019 - Present | Research Intern | IBM Thomas J. Watson Research Center, IBM Research **
+**05/2019 - Present | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Knowledge Technology Group @ IBM Research AI
 * Mentor: Dr. Alfio M. Gliozzo.
 * Develop new methods for knowledge induction in deep domains involving human experts and semantic analysis of documents, including text and tables. 

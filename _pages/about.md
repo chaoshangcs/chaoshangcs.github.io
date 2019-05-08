@@ -88,6 +88,7 @@ Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.
 International Journal of Distributed Sensor Networks (IJDSN), 2014	
 
 ## Awards
+* 2019 Predoctoral Prize for Research Excellence
 * 2019 AAAI Student Scholarship.
 * 2018 Predoctoral Honorable Mention Award.
 * 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
@@ -98,11 +99,12 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 
 ## Professional Services
-* Program Committee Member of International Joint Conferences on Artificial Intelligence (IJCAI 2019).
+* Program Committee Member of IJCAI 2019.
 * Program Committee Member of ECML-PKDD 2019.
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
 * Reviewer of PLOS ONE journal.
+* External Reviewer: KDD'19; KDD'18; AAAI'18 and so on.
 
 ## Teaching Experience
 * CSE-1010 Introduction to Computing for Engineers (09/2016-05/2017)

@@ -14,7 +14,7 @@ My primary research interests are in deep graph learning and machine learning us
 
 ## Selected Experience
 **05/2019 - Present | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
-* [Knowledge Technology Group](https://resedit.watson.ibm.com/researcher/view.php?person=ibm-Chao.Shang) @ IBM Research AI
+* [Knowledge Induction Team](https://resedit.watson.ibm.com/researcher/view.php?person=ibm-Chao.Shang) @ IBM Research AI
 * Mentor: Dr. Alfio M. Gliozzo.
 * Develop new machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents, including text and tables. 
 

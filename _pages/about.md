@@ -13,10 +13,10 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
-**05/2019 - Present | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
+**05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
+* Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
+* Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
 * [Knowledge Induction Team](https://resedit.watson.ibm.com/researcher/view.php?person=ibm-Chao.Shang) @ IBM Research AI
-* Mentor: Dr. Alfio M. Gliozzo.
-* Develop new machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents, including text and tables. 
 
 **09/2015 - Present | Research Assistant | University of Connecticut**
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 

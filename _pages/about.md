@@ -99,10 +99,16 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 
 ## Professional Services
+
+### Session Chair
+SR1: Graph Neural Networks, CIKM 2019.
+
+### Program Committee / Reviewer
 * Program Committee Member of CIKM 2019.
 * Program Committee Member of ECML-PKDD 2019.
 * Program Committee Member of IJCAI 2019.
-* Reviewer of IEEE Transactions on Neural Networks and Learning Systems.
+* Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+* Reviewer of Journal of Artificial Intelligence Research (JAIR).
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
 * Reviewer of PLOS ONE journal.
 * External Reviewer: KDD'19; KDD'18; AAAI'18 and so on.

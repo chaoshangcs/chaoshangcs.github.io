@@ -101,7 +101,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 ## Professional Services
 
 ### Session Chair
-SR1: Graph Neural Networks, CIKM 2019.
+* SR1: Graph Neural Networks, CIKM 2019.
 
 ### Program Committee / Reviewer
 * Program Committee Member of CIKM 2019.

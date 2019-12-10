@@ -58,9 +58,13 @@ __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completi
 Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, and Bowen Zhou. 
 The AAAI Conference on Artificial Intelligence (AAAI), 2019. (acceptance rate of 16.2%) [Code](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
 
-__[Large-scale Automatic Depression Screening Using Meta-data from WiFi Infrastructure](https://dl.acm.org)__  
-Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang,  Jayesh Kamath,  Athanasios Bamis, Jinbo Bi, Alexander Russell and Bing Wang.
+__[Large-scale Automatic Depression Screening Using Meta-data from WiFi Infrastructure](https://dl.acm.org/citation.cfm?id=3287073)__  
+Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2019 (ACM Journal of IMWUT)
+
+__[Predicting Depressive Symptoms Using Smartphone Data](https://www.sciencedirect.com/science/article/pii/S2352648319300571)__  
+Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang,  Jayesh Kamath,  Athanasios Bamis, Jinbo Bi, Alexander Russell and Bing Wang.
+IEEE/ACM CHASE, 2019
 
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 

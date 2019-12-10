@@ -13,10 +13,13 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
+**12/2019 - Present | Research Intern | MIT-IBM Watson AI Lab**
+* Deep Graph Learning.
+
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
 * Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
-* [Knowledge Induction Team](https://resedit.watson.ibm.com/researcher/view.php?person=ibm-Chao.Shang) @ IBM Research AI
+* [Knowledge Induction Team](https://researcher.watson.ibm.com/researcher/view_group.php?id=7140) @ IBM Research AI
 
 **09/2015 - Present | Research Assistant | University of Connecticut**
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 

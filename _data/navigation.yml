@@ -3,8 +3,8 @@ main:
   - title: "Learning Group"
     url: https://xmachinelearning.github.io
 
-  - title: "Research"
-    url: /research/ 
+  #- title: "Research"
+  #  url: /research/ 
   
   #- title: "Publications"
   #  url: /publications/  
@@ -18,8 +18,8 @@ main:
   - title: "MLDDD"
     url: https://mlddd-ct.github.io/
 
-  - title: "Personal"
-    url: http://chaoshang.weebly.com/personal.html
+  #- title: "Personal"
+  #  url: http://chaoshang.weebly.com/personal.html
     
   #- title: "Guide"
   #  url: /markdown/

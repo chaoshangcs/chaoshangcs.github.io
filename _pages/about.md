@@ -13,7 +13,7 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
-**12/2019 - Present | Research Intern | MIT-IBM Watson AI Lab**
+**01/2020 - Present | Research Intern | MIT-IBM Watson AI Lab**
 * Deep Graph Learning.
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
@@ -94,17 +94,6 @@ __[A carrier class IoT service architecture integrating IMS with SWE](http://jou
 Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.   
 International Journal of Distributed Sensor Networks (IJDSN), 2014	
 
-## Awards
-* 2019 Predoctoral Prize for Research Excellence
-* 2019 AAAI Student Scholarship.
-* 2018 Predoctoral Honorable Mention Award.
-* 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
-* 2017 IEEE International Conference on Big Data, Student Travel Award.
-* 2014 National Scholarship for Graduate Students.
-
-## X Machine Learning(XML) Group
-[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
-
 ## Professional Services
 
 ### Session Chair
@@ -122,9 +111,20 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 * Reviewer of PLOS ONE journal.
 * External Reviewer: KDD'19; KDD'18; AAAI'18 and so on.
 
+## Awards
+* 2019 Predoctoral Prize for Research Excellence
+* 2019 AAAI Student Scholarship.
+* 2018 Predoctoral Honorable Mention Award.
+* 2018 the 4th Annual Graduate Poster Competition, Computer Science & Engineering First Place Award.
+* 2017 IEEE International Conference on Big Data, Student Travel Award.
+* 2014 National Scholarship for Graduate Students.
+
 ## Teaching Experience
 * CSE-1010 Introduction to Computing for Engineers (09/2016-05/2017)
 * CSE-5820 Machine Learning (01/2017-05/2017)
+
+## X Machine Learning(XML) Group
+[The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 
 ## Contact
 Email: chao.shang AT uconn.edu  

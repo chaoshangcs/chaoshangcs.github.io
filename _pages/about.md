@@ -13,7 +13,7 @@ I am a Ph.D. student in the Computer Science and Engineering Department, [Univer
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
-**01/2020 - Present | Research Intern | MIT-IBM Watson AI Lab**
+**01/2020 - Present | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Deep Graph Learning.
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
@@ -101,6 +101,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 
 ### Program Committee / Reviewer
 * Program Committee Member of IJCAI 2020.
+* Program Committee Member of CIKM 2020.
 * Program Committee Member of CIKM 2019.
 * Program Committee Member of ECML-PKDD 2019.
 * Program Committee Member of IJCAI 2019.

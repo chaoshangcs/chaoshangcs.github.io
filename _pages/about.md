@@ -100,6 +100,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 * SR1: Graph Neural Networks, CIKM 2019.
 
 ### Program Committee / Reviewer
+* Program Committee Member of ACL 2020.
 * Program Committee Member of IJCAI 2020.
 * Program Committee Member of CIKM 2020.
 * Program Committee Member of CIKM 2019.

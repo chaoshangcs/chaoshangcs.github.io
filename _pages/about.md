@@ -54,7 +54,7 @@ My primary research interests are in deep graph learning and machine learning us
 * Design and simulate effective congestion control and scheduling algorithms.
 
 ## Publications
-Taxonomy Construction via Graph-based Cross-Domain Knowledge Transfer.
+Taxonomy Construction with Graph-based Cross-Domain Transfer Learning.
 C. Shang, S. Dash, MF. Chowdhury, N. Mihindukulasooriya, & A. Gliozzo. Under Review.
 
 Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling.

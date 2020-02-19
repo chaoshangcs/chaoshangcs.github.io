@@ -14,7 +14,7 @@ My primary research interests are in deep graph learning and machine learning us
 
 ## Selected Experience
 **01/2020 - Present | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
-* Deep Graph Learning.
+* Deep Graph Structure Learning.
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.

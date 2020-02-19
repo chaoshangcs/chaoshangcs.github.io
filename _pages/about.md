@@ -54,13 +54,13 @@ My primary research interests are in deep graph learning and machine learning us
 * Design and simulate effective congestion control and scheduling algorithms.
 
 ## Publications
-__[Taxonomy Construction via Graph-based Cross-Domain Knowledge Transfer]__
+Taxonomy Construction via Graph-based Cross-Domain Knowledge Transfer.
 C. Shang, S. Dash, MF. Chowdhury, N. Mihindukulasooriya, & A. Gliozzo. Under Review.
 
-__[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling]__
+Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling.
 C. Shang, Q. Liu, Q. Tong, J. Sun, M. Song, & J. Bi. C. Under Review.
 
-__[Predicting Outcomes of Chemical Reactions: ASeq2Seq Approach with Multi-view Attention and Edge Embedding]__
+Predicting Outcomes of Chemical Reactions: ASeq2Seq Approach with Multi-view Attention and Edge Embedding.
 X. Xiao, C. Shang, J. Bi, S. Rajasekaran. Under Review.
 
 __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://arxiv.org/pdf/1811.04441.pdf)__  

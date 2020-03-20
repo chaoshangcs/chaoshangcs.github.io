@@ -60,8 +60,8 @@ C. Shang, S. Dash, MF. Chowdhury, N. Mihindukulasooriya, & A. Gliozzo. Under Rev
 Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling.
 C. Shang, Q. Liu, Q. Tong, J. Sun, M. Song, & J. Bi. C. Under Review.
 
-__[Predicting Outcomes of Chemical Reactions: A Seq2Seq Approach with Multi-view Attention and Edge Embedding]()__ 
-X. Xiao, C. Shang, J. Bi, S. Rajasekaran. 
+__[Predicting Outcomes of Chemical Reactions: A Seq2Seq Approach with Multi-view Attention and Edge Embedding](https://chaoshangcs.com/)__ 
+Xiao Xia, Shang Chao, Bi Jinbo and Rajasekaran Sanguthevar.
 International Joint Conference on Neural Networks (IJCNN),2020.
 
 __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://arxiv.org/pdf/1811.04441.pdf)__  

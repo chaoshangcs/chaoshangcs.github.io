@@ -55,14 +55,14 @@ My primary research interests are in deep graph learning and machine learning us
 
 ## Publications
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://chaoshangcs.com/)__  
-C. Shang, S. Dash, MF. Chowdhury, N. Mihindukulasooriya, & A. Gliozzo. ACL 2020.
+Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. ACL 2020.
 
 __[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  
-C. Shang, Q. Liu, Q. Tong, J. Sun, M. Song, & J. Bi. C. Under Review.
+Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. Under Review, 2020.
 
 __[Predicting Outcomes of Chemical Reactions: A Seq2Seq Approach with Multi-view Attention and Edge Embedding](https://chaoshangcs.com/)__  
-Xiao Xia, Shang Chao, Bi Jinbo and Rajasekaran Sanguthevar.
-International Joint Conference on Neural Networks (IJCNN),2020.
+Xia Xiao, Chao Shang, Jinbo Bi and Sanguthevar Rajasekaran.
+International Joint Conference on Neural Networks (IJCNN), 2020.
 
 __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://arxiv.org/pdf/1811.04441.pdf)__  
 Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, and Bowen Zhou. 

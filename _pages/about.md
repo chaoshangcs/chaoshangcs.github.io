@@ -55,7 +55,8 @@ My primary research interests are in deep graph learning and machine learning us
 
 ## Publications
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://chaoshangcs.com/)__  
-Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. ACL 2020.
+Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
+The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.
 
 __[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  
 Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. Under Review, 2020.

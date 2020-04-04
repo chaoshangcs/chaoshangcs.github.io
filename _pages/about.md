@@ -17,7 +17,7 @@ My primary research interests are in deep graph learning and machine learning us
 * Deep Graph Structure Learning.
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
-* Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
+* Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents and published one paper in ACL 2020.
 * Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
 * [Knowledge Induction Team](https://researcher.watson.ibm.com/researcher/view_group.php?id=7140) @ IBM Research AI
 

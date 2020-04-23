@@ -35,7 +35,7 @@ My primary research interests are in deep graph learning and machine learning us
 * Designed a new graph convolutional model utilizing knowledge graph structure, node attributes and relation types.
 * Gained about 10% relative improvement over the state-of-the-art method, and published a KG completion framework.
 
-**05/2017 - 03/2018 | Research Assistant  | Yale Center for Molecular Discovery, Yale University**
+**05/2017 - 03/2018 | Research Assistant  | Yale University**
 * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.

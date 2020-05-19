@@ -126,6 +126,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 * External Reviewer: KDD'19; KDD'18; AAAI'18 and so on.
 
 ## Awards
+* 2020 Departmental Research Excellence Award
 * 2019 Predoctoral Prize for Research Excellence
 * 2019 AAAI Student Scholarship.
 * 2018 Predoctoral Honorable Mention Award.

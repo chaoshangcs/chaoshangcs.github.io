@@ -122,6 +122,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 * Reviewer of Journal of Artificial Intelligence Research (JAIR).
 * Reviewer of IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB).
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
+* Reviewer of Journal of Health Information Science and Systems.
 * Reviewer of PLOS ONE journal.
 * External Reviewer: KDD'19; KDD'18; AAAI'18 and so on.
 

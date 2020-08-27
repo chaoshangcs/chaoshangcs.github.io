@@ -173,7 +173,6 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 
 ## Contact
 Email: chao.shang AT uconn.edu  
-Address: 371 Fairfield Way, Unit 4155, Storrs, Conntecticut 06269
 
 
 

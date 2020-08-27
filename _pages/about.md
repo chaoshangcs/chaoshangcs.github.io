@@ -14,7 +14,7 @@ I received my Ph.D. from the Computer Science and Engineering Department, [Unive
 My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
-**09/2020 - Present| Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
+**09/2020 - Present | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 * Focuses on developing machine learning and deep learning algorithms for graph structured data.
 
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**

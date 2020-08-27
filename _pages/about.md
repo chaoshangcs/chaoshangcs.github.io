@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist at the JD.com AI Research, working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
+I am a research scientist at the [JD.com AI Research](https://air.jd.com/), working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
 
 I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en) and [Dr. Jie Chen](https://jiechenjiechen.github.io/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
 
@@ -17,44 +17,47 @@ My primary research interests are in deep graph learning and machine learning us
 **09/2020 - Present| Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
-* Deep Graph Structure Learning.
+* Graph Structure Learning for Multivariate Time Series data.
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
-* Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents and published one paper in ACL 2020.
+* Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
 * Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
-* [Knowledge Induction Team](https://researcher.watson.ibm.com/researcher/view_group.php?id=7140) @ IBM Research AI
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
 * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
-* Explored contextual embedding of medical concepts from Electronic Health Records (EHRs) with Word2vec.
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 * [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
-* Mentors: Dr. Jing Huang, Dr. Yun Tang, Dr. Xiaodong He.
 * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. 
 * Designed a new graph convolutional model utilizing knowledge graph structure, node attributes and relation types.
 * Gained about 10% relative improvement over the state-of-the-art method, and published a KG completion framework.
 
+**07/2014 - 11/2014 | Research Assistant | University of Southern California**  
+* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
+
+<!--
 **05/2017 - 09/2017 | Research Assistant  | Yale University**
 * Designed prominent machine learning methods, especially deep learning, for the early stage of drug design.
 * Designed the molecular graph convolutional networks for learning molecular representations from undirected graphs.
 * Extended Recurrent Neural Networks and Autoencoder models for SMILES strings, to learn sensible chemical rules and generate synthesizable molecules encoded as text sequences.
-
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * [Data Science Laboratory](http://dslab.usc.edu/)
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
-
 **03/2015 - 08/2015 | Research Intern | Institute of Automation, Chinese Academy of Sciences** 
 * Built a high-performance computing platform on GPUs to accelerate deep learning research.
 * Constructed deep learning models to extract image features.
-
 **09/2012 - 03/2015 | Research Assistant | Beijing University of Posts and Telecommunications** 
 * Analyzed the limitations of Wireless Sensor Network, Information Centric Networking, etc. 
 * Design and simulate effective congestion control and scheduling algorithms.
+others
+* [Data Science Laboratory](http://dslab.usc.edu/)
+* [Knowledge Induction Team](https://researcher.watson.ibm.com/researcher/view_group.php?id=7140) @ IBM Research AI
+-->
 
 ## Publications
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
@@ -110,9 +113,6 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 
 ## Professional Services
 
-### Session Chair
-* SR1: Graph Neural Networks, CIKM 2019.
-
 ### Program Committee / Reviewer
 * Program Committee Member of AAAI 2021.
 * Program Committee Member of EACL 2021.
@@ -130,6 +130,9 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 * Reviewer of Journal of Health Information Science and Systems.
 * Reviewer of PLOS ONE journal.
 * External Reviewer: KDD'19; KDD'18; AAAI'18 and so on.
+
+### Session Chair
+* SR1: Graph Neural Networks, CIKM 2019.
 
 ## Awards
 * 2020 Departmental Research Excellence Award

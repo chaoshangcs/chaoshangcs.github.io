@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chao Shang"
 title_separator          : "-"
 name                     : &name "Chao Shang"
-description              : &description "Ph.D. student at University of Connecticut "
+description              : &description "Research Scientist, Ph.D."
 url                      : https://chaoshangcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chaoshangcs.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Chao Shang"
   avatar           : "my.jpg"
-  bio              : "Ph.D. student at University of Connecticut, expert in Machine Learning"
+  bio              : "Research Scientist, JD AI Research, expert in Machine Learning"
   location         : "Connecticut"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=u_g_wSoAAAAJ&hl=en"

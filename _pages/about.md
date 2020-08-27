@@ -15,29 +15,50 @@ My primary research interests are in deep graph learning and machine learning us
 
 ## Selected Experience
 **09/2020 - Present| Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
+* Focuses on developing machine learning and deep learning algorithms for graph structured data.
 
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Graph Structure Learning for Multivariate Time Series data.
+* Mentor: [Dr. Jie Chen](https://jiechenjiechen.github.io/)
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
 * Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
+* Designed deep learning, machine learning methods to improve drug discovery, precision medicine, depression detection and so on. 
+* Constructed various graph convolutional networks on graphs for node embedding and graph embedding.
+* Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
+
+**05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
+* [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
+* Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. 
+
+**07/2014 - 11/2014 | Research Assistant | University of Southern California**  
+* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
+
+<!--
+**09/2020 - Present| Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
+**01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
+* Graph Structure Learning for Multivariate Time Series data.
+**05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
+* Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
+* Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
+**09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 * Designed deep learning, machine learning methods to improve drug discovery & precision medicine. 
 * Constructed the graph convolutional networks on graphs for node embedding and graph embedding.
 * Created various Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 * Developed multi-view and multi-task algorithms that automatically detect disorder problems using daily living datasets.
-
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 * [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
 * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. 
 * Designed a new graph convolutional model utilizing knowledge graph structure, node attributes and relation types.
 * Gained about 10% relative improvement over the state-of-the-art method, and published a KG completion framework.
-
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
 * Implemented script codes to extract the patterns, relevant terms and its associated parameters.
+-->
 
 <!--
 **05/2017 - 09/2017 | Research Assistant  | Yale University**

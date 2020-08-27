@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist at the [JD.com AI Research](https://air.jd.com/), working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
+I am a research scientist at the [JD.COM AI Research](https://air.jd.com/), working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
 
 I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en) and [Dr. Jie Chen](https://jiechenjiechen.github.io/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
 

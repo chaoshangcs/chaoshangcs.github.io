@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist at the [JD.COM AI Research](https://air.jd.com/), working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
+I am a research scientist at [JD.COM AI Research](https://air.jd.com/), working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
 
 I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I was supervised by [Prof. Fei Wang](https://sites.google.com/site/feiwang03/) and had the opportunity to work with [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en) and [Dr. Jie Chen](https://jiechenjiechen.github.io/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
 
@@ -17,6 +17,11 @@ My primary research interests are in deep graph learning and machine learning us
 **09/2020 - Present | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 * Focuses on developing machine learning and deep learning algorithms for graph structured data.
 
+**09/2015 - 08/2020 | Research Assistant | University of Connecticut**
+* Designed deep learning, machine learning methods to improve drug discovery, precision medicine, depression detection and so on. 
+* Constructed various graph convolutional networks on graphs for node embedding and graph embedding.
+* Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
+
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Graph Structure Learning for Multivariate Time Series data.
 * Mentor: [Dr. Jie Chen](https://jiechenjiechen.github.io/)
@@ -24,11 +29,6 @@ My primary research interests are in deep graph learning and machine learning us
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
 * Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
-
-**09/2015 - 08/2020 | Research Assistant | University of Connecticut**
-* Designed deep learning, machine learning methods to improve drug discovery, precision medicine, depression detection and so on. 
-* Constructed various graph convolutional networks on graphs for node embedding and graph embedding.
-* Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 * [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  

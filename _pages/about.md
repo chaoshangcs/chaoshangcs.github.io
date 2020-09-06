@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 I am a research scientist at [JD AI Research](https://air.jd.com/), [JD.COM](https://corporate.jd.com/home), working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
-I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [Chinese Academic of Science](http://english.ia.cas.cn/) (2015), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
+I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/). My advisor is [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
+
+My primary research interests are in deep graph learning (Graph Neural Networks) and machine learning using large-scale graph-structured datasets, with an emphasis on knowledge graphs, taxonomy construction, healthcare informatics, social networks, and drug discovery.
+
 <!--
 I had the opportunity to work with [Prof. Fei Wang](https://sites.google.com/site/feiwang03/), [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en) and [Dr. Jie Chen](https://jiechenjiechen.github.io/). 
+[Chinese Academic of Science](http://english.ia.cas.cn/) (2015),
+My primary research interests are in deep graph learning and machine learning using large-scale graph structured datasets, with an emphasis on knowledge graphs, healthcare informatics and cheminformatics. 
 -->
 
-My primary research interests are in deep graph learning and machine learning using large-scale datasets, with an emphasis on healthcare informatics, knowledge graphs, cheminformatics and bioinformatics. 
 
 ## Selected Experience
 **09/2020 - Present | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**

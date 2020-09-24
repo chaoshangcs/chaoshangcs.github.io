@@ -92,7 +92,7 @@ Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya
 The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.
 
 __[Automatic depression prediction using Internet traffic characteristics on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300295)__
-Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis, Bing Wang
+Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis, Bing Wang.
 Smart Health, 2020.
 
 __[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  

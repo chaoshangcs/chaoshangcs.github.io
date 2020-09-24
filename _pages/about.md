@@ -91,6 +91,10 @@ __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledg
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
 The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020.
 
+__[Automatic depression prediction using Internet traffic characteristics on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300295)__
+Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis, Bing Wang
+Smart Health, 2020.
+
 __[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  
 Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. Under Review, 2020.
 
@@ -141,6 +145,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 ## Professional Services
 
 ### Program Committee / Reviewer
+
 * Program Committee Member of AAAI 2021.
 * Program Committee Member of EACL 2021.
 * Program Committee Member of EMNLP 2020.
@@ -150,6 +155,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014
 * Program Committee Member of CIKM 2019.
 * Program Committee Member of ECML-PKDD 2019.
 * Program Committee Member of IJCAI 2019.
+* Reviewer of Artificial Intelligence Review
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 * Reviewer of Journal of Artificial Intelligence Research (JAIR).
 * Reviewer of IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB).

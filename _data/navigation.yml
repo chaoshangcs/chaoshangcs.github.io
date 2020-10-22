@@ -12,8 +12,8 @@ main:
   #- title: "Lab"
   #  url: http://www.labhealthinfo.uconn.edu/
     
-  - title: "CV"
-    url: https://www.linkedin.com/in/chaoshang
+  #- title: "CV"
+  #  url: https://www.linkedin.com/in/chaoshang
     
   #- title: "MLDDD"
   #  url: https://mlddd-ct.github.io/

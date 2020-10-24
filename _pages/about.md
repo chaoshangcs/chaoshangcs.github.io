@@ -35,10 +35,11 @@ My primary research interests are in deep graph learning and machine learning us
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Developed machine learning methods for knowledge induction in deep domains involving human experts and semantic analysis of documents.
 * Proposed a graph-based end-to-end learning framework to construct the taxonomy of missing domain.
+* [Knowledge Induction Team](https://researcher.watson.ibm.com/researcher/view_group.php?id=7140) @ IBM Research AI
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
-* [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
 * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. 
+* [SAIL-JD Knowledge Graph Research Program](https://airesearch.stanford.edu/research/knowledge_graph)  
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 

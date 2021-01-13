@@ -88,6 +88,10 @@ others
 -->
 
 ## Publications
+__[Discrete Graph Structure Learning for Forecasting Multiple Time Series]()__  
+Chao Shang, Jie Chen, and Jinbo Bi. 
+The International Conference on Learning Representations (ICLR), 2021.
+
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
 The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [Code](https://github.com/IBM/gnn-taxo-construction)

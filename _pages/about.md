@@ -88,9 +88,9 @@ others
 -->
 
 ## Publications
-__[Discrete Graph Structure Learning for Forecasting Multiple Time Series]()__  
+__[Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf)__  
 Chao Shang, Jie Chen, and Jinbo Bi. 
-The International Conference on Learning Representations (ICLR), 2021.
+The International Conference on Learning Representations (ICLR), 2021. [Code](https://github.com/chaoshangcs/GTS)
 
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 

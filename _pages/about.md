@@ -100,7 +100,7 @@ __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledg
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
 The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [Code](https://github.com/IBM/gnn-taxo-construction)
 
-__[Automatic depression prediction using Internet traffic characteristics on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300295)__
+__[Automatic depression prediction using Internet traffic characteristics on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300295)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis, Bing Wang.
 Smart Health, 2020.
 

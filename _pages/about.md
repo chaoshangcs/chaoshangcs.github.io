@@ -93,7 +93,8 @@ Chao Shang, Jie Chen, and Jinbo Bi.
 The International Conference on Learning Representations (ICLR), 2021. [Code](https://github.com/chaoshangcs/GTS)
 
 __[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  
-Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. Neurocomputing, 2021.  [Code](https://github.com/Luckick/EAGCN)
+Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. 
+Neurocomputing, 2021.  [Code](https://github.com/Luckick/EAGCN)
 
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 

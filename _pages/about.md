@@ -92,6 +92,9 @@ __[Discrete Graph Structure Learning for Forecasting Multiple Time Series](https
 Chao Shang, Jie Chen, and Jinbo Bi. 
 The International Conference on Learning Representations (ICLR), 2021. [Code](https://github.com/chaoshangcs/GTS)
 
+__[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  
+Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. Neurocomputing, 2021.  [Code](https://github.com/Luckick/EAGCN)
+
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
 The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [Code](https://github.com/IBM/gnn-taxo-construction)
@@ -99,9 +102,6 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 
 __[Automatic depression prediction using Internet traffic characteristics on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300295)__
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis, Bing Wang.
 Smart Health, 2020.
-
-__[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  
-Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. Under Review, 2020.
 
 __[Predicting Outcomes of Chemical Reactions: A Seq2Seq Approach with Multi-view Attention and Edge Embedding](https://chaoshangcs.com/)__  
 Xia Xiao, Chao Shang, Jinbo Bi and Sanguthevar Rajasekaran.
@@ -121,7 +121,7 @@ IEEE/ACM CHASE, 2019
 
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 
-arXiv preprint arXiv:1802.04944, 2018.  [Code](https://github.com/Luckick/EAGCN)
+arXiv preprint arXiv:1802.04944, 2018.  
 
 __[Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning](https://dl.acm.org/citation.cfm?id=3191753)__  
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi. 

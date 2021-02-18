@@ -96,6 +96,9 @@ __[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Mo
 Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. 
 Neurocomputing, 2021.  [Code](https://github.com/Luckick/EAGCN)
 
+__[End-to-End Structure-Aware Convolutional Networks on Graphs](https://opencommons.uconn.edu/dissertations/2555/)__  
+Chao Shang. University of Connecticut, 2020
+
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
 The 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [Code](https://github.com/IBM/gnn-taxo-construction)

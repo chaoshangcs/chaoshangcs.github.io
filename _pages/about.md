@@ -97,7 +97,7 @@ Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi.
 Neurocomputing, 2021.  [Code](https://github.com/Luckick/EAGCN)
 
 __[End-to-End Structure-Aware Convolutional Networks on Graphs](https://opencommons.uconn.edu/dissertations/2555/)__  
-Chao Shang. University of Connecticut, 2020
+Chao Shang. University of Connecticut, 2020.
 
 __[Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://www.aclweb.org/anthology/2020.acl-main.199.pdf)__  
 Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya, and Alfio Gliozzo. 
@@ -113,15 +113,16 @@ International Joint Conference on Neural Networks (IJCNN), 2020.
 
 __[End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://arxiv.org/pdf/1811.04441.pdf)__  
 Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, and Bowen Zhou. 
-The AAAI Conference on Artificial Intelligence (AAAI), 2019. (acceptance rate of 16.2%) [Code](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
+The AAAI Conference on Artificial Intelligence (AAAI), 2019. [Code](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
+<!-- (acceptance rate of 16.2%) -->
 
 __[Large-scale Automatic Depression Screening Using Meta-data from WiFi Infrastructure](https://dl.acm.org/citation.cfm?id=3287073)__  
 Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
-ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2019 (ACM Journal of IMWUT)
+ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2019. (ACM Journal of IMWUT)
 
 __[Predicting Depressive Symptoms Using Smartphone Data](https://www.sciencedirect.com/science/article/pii/S2352648319300571)__  
 Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Jin Lu, Chao Shang,  Jayesh Kamath,  Athanasios Bamis, Jinbo Bi, Alexander Russell and Bing Wang.
-IEEE/ACM CHASE, 2019
+IEEE/ACM CHASE, 2019.
 
 __[Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/pdf/1802.04944v1.pdf)__  
 Chao Shang, Qinqing Liu, Ko-Shin Chen, Jiangwen Sun, Jin Lu, Jinfeng Yi, and Jinbo Bi. 
@@ -129,7 +130,7 @@ arXiv preprint arXiv:1802.04944, 2018.
 
 __[Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning](https://dl.acm.org/citation.cfm?id=3191753)__  
 Jin Lu, Chao Shang, Chaoqun Yue, Reynaldo Morillo, and Shweta Ware, Jayesh Kamath, Athansios Bamis, Alexander Russell, Bing Wang, and Jinbo Bi. 
-ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 (ACM Journal of IMWUT)
+ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018. (ACM Journal of IMWUT)
 
 __[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
@@ -137,19 +138,20 @@ IEEE Transactions on Big Data (IEEE TBDATA), 2018.
 
 __[VIGAN: Missing View Imputation with Generative Adversarial Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8257992)__  
 Chao Shang, Aaron Palmer, Jiangwen Sun, Ko-Shin Chen, Jin Lu, Jinbo Bi.    
-IEEE International Conference on Big Data (IEEE BigData), 2017 (acceptance rate of 18%)  [Code](https://github.com/chaoshangcs/VIGAN)
+IEEE International Conference on Big Data (IEEE BigData), 2017.  [Code](https://github.com/chaoshangcs/VIGAN)
+<!-- (acceptance rate of 18%) -->
 
 __[Fusing Location Data for Depression Prediction](https://ieeexplore.ieee.org/document/8397515)__  
 Chaoqun Yue, Shweta Ware, Reynaldo Morillo, Jin Lu, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis and Bing Wang.
-IEEE Ubiquitous Intelligence & Computing (UIC), 2017
+IEEE Ubiquitous Intelligence & Computing (UIC), 2017.
 
 __[Event Extraction from Unstructured Text Data](https://link.springer.com/chapter/10.1007/978-3-319-22849-5_38)__  
 Chao Shang, Anand Panangadan, and Victor K. Prasanna.   
-International Conference on Database and Expert Systems Applications (DEXA), 2015
+International Conference on Database and Expert Systems Applications (DEXA), 2015.
 
 __[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
 Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.   
-International Journal of Distributed Sensor Networks (IJDSN), 2014	
+International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 
 ## Professional Services
 

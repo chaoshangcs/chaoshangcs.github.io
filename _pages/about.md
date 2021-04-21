@@ -88,11 +88,11 @@ others
 -->
 
 ## Publications
-__[Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://arxiv.org/pdf/2101.06861.pdf)__  
+__[Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/pdf?id=WEHSlH5mOk)__  
 Chao Shang, Jie Chen, and Jinbo Bi. 
 The International Conference on Learning Representations (ICLR), 2021. [Code](https://github.com/chaoshangcs/GTS)
 
-__[Consistent Edge-Aware Multi-View Spectral Graph Convolutions for Molecular Modeling](https://chaoshangcs.com/)__  
+__[Multi-view spectral graph convolution with consistent edge attention for molecular modeling](https://www.sciencedirect.com/science/article/pii/S092523122100271X?casa_token=YMTYmubwcM8AAAAA:6amGUUDcGk4bdzTlgZwt9GVGa5PTtQYEpfYDihzv4Fmwlq_bw9SLAItpqQVMFMwLIYy4D66MDMM)__  
 Chao Shang, Qinqing Liu, Qianqian Tong, Jiangwen Sun, Minghu Song, and Jinbo Bi. 
 Neurocomputing, 2021.  [Code](https://github.com/Luckick/EAGCN)
 

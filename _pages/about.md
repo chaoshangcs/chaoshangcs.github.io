@@ -88,7 +88,7 @@ others
 -->
 
 ## Publications
-__[Open Temporal Relation Extraction for Question Answering](https://chaoshangcs.github.io/)__ 
+__[Open Temporal Relation Extraction for Question Answering](https://chaoshangcs.github.io/)__   
 Chao Shang, Peng Qi, Guangtao Wang, Jing Huang, Youzheng Wu, Bowen Zhou
 Automated Knowledge Base Construction (AKBC), 2021.
 

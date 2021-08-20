@@ -89,7 +89,7 @@ others
 
 ## Publications
 __[Open Temporal Relation Extraction for Question Answering](https://chaoshangcs.github.io/)__   
-Chao Shang, Peng Qi, Guangtao Wang, Jing Huang, Youzheng Wu, Bowen Zhou
+Chao Shang, Peng Qi, Guangtao Wang, Jing Huang, Youzheng Wu, and Bowen Zhou.
 Automated Knowledge Base Construction (AKBC), 2021.
 
 __[Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/pdf?id=WEHSlH5mOk)__  

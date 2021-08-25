@@ -173,9 +173,10 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * Program Committee Member of CIKM 2019.
 * Program Committee Member of ECML-PKDD 2019.
 * Program Committee Member of IJCAI 2019.
-* Reviewer of Artificial Intelligence Review
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+* Reviewer of Artificial Intelligence Review
 * Reviewer of Journal of Artificial Intelligence Research (JAIR).
+* Reviewer of Journal of Chemical Information and Modeling (JCIM).
 * Reviewer of IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB).
 * Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
 * Reviewer of Journal of Health Information Science and Systems.

@@ -167,6 +167,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * Program Committee Member of AAAI 2022.
 * Program Committee Member of ACL/IJCNLP 2021
 * Program Committee Member of NAACL 2021.
+* Program Committee Member of EMNLP 2021.
 * Program Committee Member of IJCAI 2021.
 * Program Committee Member of AAAI 2021.
 * Program Committee Member of EACL 2021.

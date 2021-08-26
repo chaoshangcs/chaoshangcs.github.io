@@ -88,7 +88,7 @@ others
 -->
 
 ## Publications
-__(TAG: Transformer Attack from Gradient)(https://chaoshangcs.github.io/)__   
+__[TAG: Transformer Attack from Gradient](https://chaoshangcs.github.io/)__   
 Jieren Deng, Yijue Wang, Ji Li, CHENGHONG Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran and Caiwen Ding.
 NAACL, 2021.
 

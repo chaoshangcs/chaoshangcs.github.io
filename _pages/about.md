@@ -88,6 +88,10 @@ others
 -->
 
 ## Publications
+__(TAG: Transformer Attack from Gradient)(https://chaoshangcs.github.io/)__   
+Jieren Deng, Yijue Wang, Ji Li, CHENGHONG Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran and Caiwen Ding.
+NAACL, 2021.
+
 __[Open Temporal Relation Extraction for Question Answering](https://chaoshangcs.github.io/)__   
 Chao Shang, Peng Qi, Guangtao Wang, Jing Huang, Youzheng Wu, and Bowen Zhou.
 Automated Knowledge Base Construction (AKBC), 2021.

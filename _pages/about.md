@@ -88,11 +88,11 @@ others
 -->
 
 ## Publications
-__[TAG: Transformer Attack from Gradient](https://chaoshangcs.github.io/)__   
+__[TAG: Transformer Attack from Gradient](https://arxiv.org/pdf/2103.06819.pdf)__   
 Jieren Deng, Yijue Wang, Ji Li, Chenghong Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran and Caiwen Ding.
 The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.
 
-__[Open Temporal Relation Extraction for Question Answering](https://chaoshangcs.github.io/)__   
+__[Open Temporal Relation Extraction for Question Answering](https://openreview.net/pdf?id=li-3nHhT0xc)__   
 Chao Shang, Peng Qi, Guangtao Wang, Jing Huang, Youzheng Wu, and Bowen Zhou.
 Automated Knowledge Base Construction (AKBC), 2021.
 

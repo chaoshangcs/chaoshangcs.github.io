@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist at [JD AI Research](https://air.jd.com/), [JD.COM](https://corporate.jd.com/home), working closely with [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en).
+I am a research scientist at [JD AI Research](https://air.jd.com/), [JD.COM](https://corporate.jd.com/home).
 I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
 
 My primary research interests are in deep graph learning ( Graph Neural Networks ) and machine learning using large-scale graph-structured datasets, with an emphasis on knowledge graphs, taxonomy construction, healthcare informatics, social networks, and drug discovery.
@@ -21,7 +21,10 @@ My primary research interests are in deep graph learning and machine learning us
 
 ## Selected Experience
 **09/2020 - Present | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
-* Focuses on developing machine learning and deep learning algorithms for graph structured data.
+* Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA.
+* Designed the time-sensitive models for temporal knowledge graphs and temporal expressions.
+* Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
+
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 * Designed deep learning, machine learning methods to improve drug discovery, precision medicine, depression detection and so on. 

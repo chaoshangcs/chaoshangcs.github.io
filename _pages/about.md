@@ -91,6 +91,10 @@ others
 -->
 
 ## Publications
+__[Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs](https://chaoshangcs.github.io/)__ 
+Chao Shang, Guangtao Wang, Peng Qi, Jing Huang.
+The 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+
 __[TAG: Gradient Attack on Transformer-based Language Models](https://aclanthology.org/2021.findings-emnlp.305.pdf)__   
 Jieren Deng, Yijue Wang, Ji Li, Chenghong Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran and Caiwen Ding.
 The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.

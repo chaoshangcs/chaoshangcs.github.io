@@ -91,7 +91,7 @@ others
 -->
 
 ## Publications
-__[Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs](https://chaoshangcs.github.io/)__ 
+__[Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs](https://chaoshangcs.github.io/)__  
 Chao Shang, Guangtao Wang, Peng Qi, Jing Huang.
 The 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
 

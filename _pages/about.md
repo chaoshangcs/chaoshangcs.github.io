@@ -22,7 +22,12 @@ My primary research interests are in deep graph learning and machine learning us
 ## Selected Experience
 **09/2020 - Present | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 * Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA.
-* Design the time-sensitive neural models for temporal knowledge graphs and temporal expressions.
+* Designed an architecture for QA on temporal knowledge graph to explore the temporal order and temporal expressions.
+* Proposed an open temporal relation extraction approach to understand the nuanced difference in textual expressions that
+indicate different temporal relations.
+* Designed the approach to improve the graph-based multi-hop question answering task.
+* Proposed a product matching system based on pretrained language models to determine whether two representations from
+different domains refer to the same product entity. 
 * Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
 
 

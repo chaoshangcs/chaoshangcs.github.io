@@ -7,12 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist at [JD AI Research](https://air.jd.com/), [JD.COM](https://corporate.jd.com/home).
-I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
+I am an Applied Scientist at [Amazon AWS AI](https://www.amazon.science/). 
+My research interests lie primarily in deep graph learning, NLP and machine learning using large-scale graph-structured and text datasets, with an emphasis on knowledge graphs, question answering, taxonomy construction, healthcare informatics, and drug discovery.
 
-My primary research interests are in deep graph learning, NLP and machine learning using large-scale graph-structured and text datasets, with an emphasis on knowledge graphs, question answering, taxonomy construction, healthcare informatics, and drug discovery.
+Before joining Amazon, I am a research scientist at JD AI Research. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Watson Research Center, JD AI Research and University of Southern California.
+
+
 
 <!--
+I am a research scientist at [JD AI Research](https://air.jd.com/), [JD.COM](https://corporate.jd.com/home).
+I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in [University of Southern California](https://www.usc.edu/) (2014), [JD AI Research](http://air.jd.com/) (2018), [IBM Thomas J. Watson Research Center](http://research.ibm.com/labs/watson/) (2019) and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (2020).
 I had the opportunity to work with [Prof. Fei Wang](https://sites.google.com/site/feiwang03/), [Prof. Viktor K. Prasanna](http://halcyon.usc.edu/~pk/prasannawebsite/), [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en) and [Dr. Jie Chen](https://jiechenjiechen.github.io/). 
 [Chinese Academic of Science](http://english.ia.cas.cn/) (2015),
 My primary research interests are in deep graph learning and machine learning using large-scale graph structured datasets, with an emphasis on knowledge graphs, healthcare informatics and cheminformatics. 
@@ -20,13 +24,15 @@ My primary research interests are in deep graph learning and machine learning us
 
 
 ## Selected Experience
-**09/2020 - Present | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
+**06/2022 - Present | Applied Scientist | Amazon AWS AI**
+
+**09/2020 - 05/2022 | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 * Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA.
 * Designed an architecture for QA on temporal knowledge graph to explore the temporal order and temporal expressions.
 * Proposed an open temporal relation extraction approach to understand the nuanced difference in textual expressions that
 indicate different temporal relations.
 * Designed the graph-based approach for the multi-hop question answering task.
-* Proposed a product matching system based on pretrained language models to determine whether two representations from
+* Proposed a product matching system to determine whether two representations from
 different domains refer to the same product entity. 
 * Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
 

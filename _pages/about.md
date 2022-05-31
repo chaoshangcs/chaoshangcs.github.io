@@ -14,9 +14,7 @@ Before joining Amazon, I am a research scientist at JD AI Research. I received m
 
 
 
-
-
-## Selected Experience
+## Experience
 **06/2022 - Present | Applied Scientist | Amazon AWS AI**
 * Focus on the NLP tasks.
 

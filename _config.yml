@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Chao Shang"
-  avatar           : "my.jpg"
+  avatar           : "my.JPG"
   bio              : "Applied Scientist, expert in Machine Learning."
   location         : "SEATTLE"
   employer         :

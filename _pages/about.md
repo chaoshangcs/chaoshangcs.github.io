@@ -15,7 +15,7 @@ Before joining Amazon, I am a Research Scientist at JD AI Research. I received m
 
 ## Experience
 **06/2022 - Present | Applied Scientist | Amazon AWS AI**
-* Focus on the NLP tasks.
+* Focus on the natural language processing (NLP) tasks.
 
 **09/2020 - 05/2022 | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 * Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA.

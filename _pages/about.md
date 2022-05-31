@@ -10,8 +10,7 @@ redirect_from:
 I am an Applied Scientist at [Amazon AWS AI](https://www.amazon.science/). 
 My research interests lie primarily in deep graph learning, NLP and machine learning using large-scale graph-structured and text datasets, with an emphasis on knowledge graphs, question answering, taxonomy construction, healthcare informatics, and drug discovery.
 
-Before joining Amazon, I am a research scientist at JD AI Research. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Watson Research Center, JD AI Research and University of Southern California.
-
+Before joining Amazon, I am a Research Scientist at JD AI Research. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Watson Research Center, JD AI Research and University of Southern California.
 
 
 ## Experience
@@ -32,7 +31,7 @@ Before joining Amazon, I am a research scientist at JD AI Research. I received m
 
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Designed a method to explore the correlation and causation among the time series when structure information is unknown.
-*Proposed GTS model to learn the graph structure simultaneously with the graph neural network for enhancing the
+* Proposed GTS model to learn the graph structure simultaneously with the graph neural network for enhancing the
 performance of traffic forecasting and electricity demand forecasting.
 * Mentor: [Dr. Jie Chen](https://jiechenjiechen.github.io/)
 

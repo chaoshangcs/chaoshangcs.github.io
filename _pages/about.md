@@ -178,8 +178,11 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 ## Professional Services
 
 ### Program Committee / Reviewer
-* Program Committee Member of EMNLP 2022.
-* Program Committee Member of IJCAI 2022.
+* Program Committee Member of EMNLP 2022, IJCAI 2022, ACL 2022, AAAI 2022.
+* Program Committee Member of ACL/IJCNLP 2021, NAACL 2021, EMNLP 2021, IJCAI 2021, AAAI 2021, EACL 2021.
+* Program Committee Member of EMNLP 2020, ACL 2020, IJCAI 2020, CIKM 2020.
+* Program Committee Member of CIKM 2019, ECML-PKDD 2019, IJCAI 2019.
+<!-- * Program Committee Member of IJCAI 2022.
 * Program Committee Member of ACL 2022.
 * Program Committee Member of AAAI 2022.
 * Program Committee Member of ACL/IJCNLP 2021
@@ -194,7 +197,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * Program Committee Member of CIKM 2020.
 * Program Committee Member of CIKM 2019.
 * Program Committee Member of ECML-PKDD 2019.
-* Program Committee Member of IJCAI 2019.
+* Program Committee Member of IJCAI 2019. -->
 * Reviewer of ACL Rolling Review.
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 * Reviewer of Transactions on Audio, Speech, and Language Processing.

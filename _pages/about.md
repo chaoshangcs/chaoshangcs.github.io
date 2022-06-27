@@ -25,11 +25,6 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 * Designed the graph-based approach for the multi-hop question answering task. -->
 * Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
 
-**09/2015 - 08/2020 | Research Assistant | University of Connecticut**
-* Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. 
-<!-- * Constructed various graph convolutional networks on graphs for node embedding and graph embedding. -->
-<!-- * Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc. -->
-
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Designed a method to explore the correlation and causation among the time series when structure information is unknown.
 <!-- * Proposed GTS model to learn the graph structure simultaneously with the graph neural network for enhancing the
@@ -46,6 +41,11 @@ embedding space but also transfers cross-domain knowledge via graph-based messag
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion.
 * SAIL-JD Knowledge Graph Research Program
+
+**09/2015 - 08/2020 | Research Assistant | University of Connecticut**
+* Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. 
+<!-- * Constructed various graph convolutional networks on graphs for node embedding and graph embedding. -->
+<!-- * Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc. -->
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 

@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 I am an Applied Scientist at [Amazon AWS AI](https://www.amazon.science/). 
-My research interests lie primarily in deep graph learning, NLP and machine learning using large-scale graph-structured and text datasets, with an emphasis on knowledge graphs, question answering, taxonomy construction, healthcare informatics, and drug discovery.
-
-Before joining Amazon, I was a Research Scientist at JD AI Research. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Watson Research Center, JD AI Research and University of Southern California.
-
+My research interests lie primarily in deep graph learning, NLP and machine learning using large-scale graph-structured and text datasets, with an emphasis on knowledge graphs, question answering, taxonomy construction, healthcare informatics, and drug discovery. 
+Before joining Amazon, I was a Research Scientist at JD AI Research. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). 
+<!--
+I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Watson Research Center, JD AI Research and University of Southern California.
+-->
 
 ## Experience
 **06/2022 - Present | Applied Scientist | Amazon AWS AI**
@@ -19,36 +20,36 @@ Before joining Amazon, I was a Research Scientist at JD AI Research. I received 
 
 **09/2020 - 05/2022 | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 * Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA.
-* Designed an architecture for QA on temporal knowledge graph to explore the temporal order and temporal expressions.
+<!-- * Designed an architecture for QA on temporal knowledge graph to explore the temporal order and temporal expressions.
 * Proposed an open temporal relation extraction approach to understand the nuanced difference in textual expressions.
-* Designed the graph-based approach for the multi-hop question answering task.
+* Designed the graph-based approach for the multi-hop question answering task. -->
 * Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
-* Designed deep learning, machine learning methods to improve drug discovery, precision medicine, depression detection and so on. 
-* Constructed various graph convolutional networks on graphs for node embedding and graph embedding.
-* Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc.
+* Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. 
+<!-- * Constructed various graph convolutional networks on graphs for node embedding and graph embedding. -->
+<!-- * Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc. -->
 
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Designed a method to explore the correlation and causation among the time series when structure information is unknown.
-* Proposed GTS model to learn the graph structure simultaneously with the graph neural network for enhancing the
-performance of traffic forecasting and electricity demand forecasting.
+<!-- * Proposed GTS model to learn the graph structure simultaneously with the graph neural network for enhancing the
+performance of traffic forecasting and electricity demand forecasting. -->
 * Mentor: [Dr. Jie Chen](https://jiechenjiechen.github.io/)
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Proposed an end-to-end learning framework which utilizes cross-domain knowledge and graph structure to construct the
 taxonomy of missing domain.
-* Designed a soft-clustering based graph neural network which not only incorporates connectivity structure into the
-embedding space but also transfers cross-domain knowledge via graph-based message passing.
+<!-- * Designed a soft-clustering based graph neural network which not only incorporates connectivity structure into the
+embedding space but also transfers cross-domain knowledge via graph-based message passing. -->
 * Knowledge Induction Team @ IBM Research AI
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
-* Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. 
+* Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion.
 * SAIL-JD Knowledge Graph Research Program
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
-* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
+<!--* Implemented script codes to extract the patterns, relevant terms and its associated parameters.-->
 
 <!--
 **09/2020 - Present| Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**

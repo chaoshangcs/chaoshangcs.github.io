@@ -20,29 +20,17 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 
 **09/2020 - 05/2022 | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 * Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA.
-<!-- 
-* Designed an architecture for QA on temporal knowledge graph to explore the temporal order and temporal expressions.
-* Proposed an open temporal relation extraction approach to understand the nuanced difference in textual expressions.
-* Designed the graph-based approach for the multi-hop question answering task. 
--->
 * Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
 
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Designed a method to explore the correlation and causation among the time series when structure information is unknown.
-<!-- 
-* Proposed GTS model to learn the graph structure simultaneously with the graph neural network for enhancing the
-performance of traffic forecasting and electricity demand forecasting. 
--->
 * Mentor: [Dr. Jie Chen](https://jiechenjiechen.github.io/)
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 * Proposed an end-to-end learning framework which utilizes cross-domain knowledge and graph structure to construct the
 taxonomy of missing domain.
-<!-- 
-* Designed a soft-clustering based graph neural network which not only incorporates connectivity structure into the
-embedding space but also transfers cross-domain knowledge via graph-based message passing. 
--->
 * Knowledge Induction Team @ IBM Research AI
+
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion.
@@ -50,18 +38,22 @@ embedding space but also transfers cross-domain knowledge via graph-based messag
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. 
-<!-- 
-* Constructed various graph convolutional networks on graphs for node embedding and graph embedding. 
-* Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc. 
--->
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
-<!--
-* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
--->
 
 <!--
+
+* Designed an architecture for QA on temporal knowledge graph to explore the temporal order and temporal expressions.
+* Proposed an open temporal relation extraction approach to understand the nuanced difference in textual expressions.
+* Designed the graph-based approach for the multi-hop question answering task. 
+* Proposed GTS model to learn the graph structure simultaneously with the graph neural network for enhancing the
+performance of traffic forecasting and electricity demand forecasting. 
+* Designed a soft-clustering based graph neural network which not only incorporates connectivity structure into the
+embedding space but also transfers cross-domain knowledge via graph-based message passing. 
+* Constructed various graph convolutional networks on graphs for node embedding and graph embedding. 
+* Designed Generative Adversarial Networks (GANs) models on domain mappings, missing imputation, etc. 
+* Implemented script codes to extract the patterns, relevant terms and its associated parameters.
 **09/2020 - Present| Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
 * Graph Structure Learning for Multivariate Time Series data.
@@ -192,24 +184,6 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * Program Committee Member of ACL/IJCNLP 2021, NAACL 2021, EMNLP 2021, IJCAI 2021, AAAI 2021, EACL 2021.
 * Program Committee Member of EMNLP 2020, ACL 2020, IJCAI 2020, CIKM 2020.
 * Program Committee Member of CIKM 2019, ECML-PKDD 2019, IJCAI 2019.
-<!-- 
-* Program Committee Member of IJCAI 2022.
-* Program Committee Member of ACL 2022.
-* Program Committee Member of AAAI 2022.
-* Program Committee Member of ACL/IJCNLP 2021
-* Program Committee Member of NAACL 2021.
-* Program Committee Member of EMNLP 2021.
-* Program Committee Member of IJCAI 2021.
-* Program Committee Member of AAAI 2021.
-* Program Committee Member of EACL 2021.
-* Program Committee Member of EMNLP 2020.
-* Program Committee Member of ACL 2020.
-* Program Committee Member of IJCAI 2020.
-* Program Committee Member of CIKM 2020.
-* Program Committee Member of CIKM 2019.
-* Program Committee Member of ECML-PKDD 2019.
-* Program Committee Member of IJCAI 2019. 
--->
 * Reviewer of ACL Rolling Review.
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 * Reviewer of Transactions on Audio, Speech, and Language Processing.
@@ -239,9 +213,29 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * CSE-1010 Introduction to Computing for Engineers (09/2016-05/2017)
 * CSE-5820 Machine Learning (01/2017-05/2017)
 
+
+## Contact
+Email: shangchaocs AT gmail.com 
+
 <!--
 ## X Machine Learning(XML) Group
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
+* Program Committee Member of IJCAI 2022.
+* Program Committee Member of ACL 2022.
+* Program Committee Member of AAAI 2022.
+* Program Committee Member of ACL/IJCNLP 2021
+* Program Committee Member of NAACL 2021.
+* Program Committee Member of EMNLP 2021.
+* Program Committee Member of IJCAI 2021.
+* Program Committee Member of AAAI 2021.
+* Program Committee Member of EACL 2021.
+* Program Committee Member of EMNLP 2020.
+* Program Committee Member of ACL 2020.
+* Program Committee Member of IJCAI 2020.
+* Program Committee Member of CIKM 2020.
+* Program Committee Member of CIKM 2019.
+* Program Committee Member of ECML-PKDD 2019.
+* Program Committee Member of IJCAI 2019. 
 -->
 
 
@@ -261,8 +255,6 @@ different domains refer to the same product entity.
 * Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
 -->
 
-## Contact
-Email: shangchaocs AT gmail.com 
 
 
 

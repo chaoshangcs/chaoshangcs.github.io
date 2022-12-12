@@ -97,12 +97,12 @@ others
 
 ## Publications
 
-__[Automatic depression screening using social interaction data on smartphones](https://chaoshangcs.github.io)__  
+__[Automatic depression screening using social interaction data on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000903)__  
 Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Dongjin Song, Athanasios Bamis, Bing Wang. 
 Smart Health, 2022.
 
-__[Variance of the Gradient Also Matters: Privacy Leakage from Gradients](https://chaoshangcs.github.io)__  
-Yijue Wang, Jieren Deng, Dan Guo, Chenghong Wang, Xianrui Meng, Hang Liu, Chao Shang, Binghui Wang, Qin Cao, Caiwen Ding, Sanguthevar Rajasekaran. IEEE World Congress on Computational Intelligence, 2022.
+__[Variance of the Gradient Also Matters: Privacy Leakage from Gradients](https://ieeexplore.ieee.org/abstract/document/9892665)__  
+Yijue Wang, Jieren Deng, Dan Guo, Chenghong Wang, Xianrui Meng, Hang Liu, Chao Shang, Binghui Wang, Qin Cao, Caiwen Ding, Sanguthevar Rajasekaran. International Joint Conference on Neural Networks (IJCNN), 2022.
 
 __[Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs](https://arxiv.org/pdf/2203.00255.pdf)__  
 Chao Shang, Guangtao Wang, Peng Qi, Jing Huang.

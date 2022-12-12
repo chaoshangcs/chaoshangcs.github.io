@@ -97,7 +97,7 @@ others
 
 ## Publications
 
-__[Automatic depression screening using social interaction data on smartphones](https://chaoshangcs.github.io)__
+__[Automatic depression screening using social interaction data on smartphones](https://chaoshangcs.github.io)__  
 Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Dongjin Song, Athanasios Bamis, Bing Wang. 
 Smart Health, 2022.
 

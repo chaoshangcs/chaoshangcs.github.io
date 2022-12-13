@@ -16,31 +16,31 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 
 ## Experience
 **06/2022 - Present | Applied Scientist | Amazon AWS AI**
-* Focus on the natural language processing (NLP) tasks.
+<!-- * Focus on the natural language processing (NLP) tasks. -->
 
 **09/2020 - 05/2022 | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
-* Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA.
+<!--  * Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA. -->
 * Mentor: [Dr. Jing Huang](https://scholar.google.com/citations?user=ocPXoIkAAAAJ&hl=en)
 
 **01/2020 - 06/2020 | Research Intern | MIT-IBM Watson AI Lab, IBM Research**
-* Designed a method to explore the correlation and causation among the time series when structure information is unknown.
+<!--  * Designed a method to explore the correlation and causation among the time series when structure information is unknown. -->
 * Mentor: [Dr. Jie Chen](https://jiechenjiechen.github.io/)
 
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
-* Proposed an end-to-end learning framework which utilizes cross-domain knowledge and graph structure to construct the
-taxonomy of missing domain.
+<!-- * Proposed an end-to-end learning framework which utilizes cross-domain knowledge and graph structure to construct the
+taxonomy of missing domain. -->
 * Knowledge Induction Team @ IBM Research AI
 
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
-* Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion.
+<!-- * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. -->
 * SAIL-JD Knowledge Graph Research Program
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
-* Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. 
+<!-- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
-* Developed effective knowledge discovery and data mining techniques for emerging unstructured data. 
+<!-- * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. -->
 
 <!--
 

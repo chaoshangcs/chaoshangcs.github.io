@@ -38,6 +38,7 @@ taxonomy of missing domain. -->
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 <!-- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
+* Supervisor: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/)
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 <!-- * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. -->

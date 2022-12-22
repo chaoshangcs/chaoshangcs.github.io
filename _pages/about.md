@@ -185,7 +185,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 ## Professional Services
 
 ### Program Committee / Reviewer
-* Program Committee Member of AAAI 2023, IJCAI 2023, ACL 2023.
+* Program Committee Member of AAAI 2023, IJCAI 2023, ACL 2023, KDD 2023.
 * Program Committee Member of EMNLP 2022, IJCAI 2022, ACL 2022, AAAI 2022.
 * Program Committee Member of ACL/IJCNLP 2021, NAACL 2021, EMNLP 2021, IJCAI 2021, AAAI 2021, EACL 2021.
 * Program Committee Member of EMNLP 2020, ACL 2020, IJCAI 2020, CIKM 2020.

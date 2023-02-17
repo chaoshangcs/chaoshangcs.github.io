@@ -192,6 +192,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * Program Committee Member of CIKM 2019, ECML-PKDD 2019, IJCAI 2019.
 * Reviewer of ACL Rolling Review.
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+* Reviewer of Transactions on Knowledge and Data Engineering (TKDE).
 * Reviewer of Transactions on Audio, Speech, and Language Processing.
 * Reviewer of Artificial Intelligence Review.
 * Reviewer of Journal of Artificial Intelligence Research (JAIR).

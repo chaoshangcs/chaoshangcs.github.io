@@ -225,6 +225,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 Email: shangchaocs AT gmail.com 
 
 <!--
+KDD 2023
 ## X Machine Learning(XML) Group
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 
 * Program Committee Member of IJCAI 2022.

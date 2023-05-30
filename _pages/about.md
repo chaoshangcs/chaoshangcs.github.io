@@ -98,6 +98,10 @@ others
 
 ## Publications
 
+__[Diable: Efficient Dialogue State Tracking as Operations on Tables](https://arxiv.org/abs/2305.17020)__  
+Pietro Lesci, Yoshinari Fujinuma, Momchil Hardalov, Chao Shang, Lluis Marquez. 
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023. (Findings)
+
 __[Automatic depression screening using social interaction data on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000903)__  
 Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Dongjin Song, Athanasios Bamis, Bing Wang. 
 Smart Health, 2022.
@@ -111,7 +115,7 @@ The 60th Annual Meeting of the Association for Computational Linguistics (ACL), 
 
 __[TAG: Gradient Attack on Transformer-based Language Models](https://aclanthology.org/2021.findings-emnlp.305.pdf)__   
 Jieren Deng, Yijue Wang, Ji Li, Chenghong Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran and Caiwen Ding.
-The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.
+The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021. (Findings)
 
 __[Open Temporal Relation Extraction for Question Answering](https://openreview.net/pdf?id=li-3nHhT0xc)__   
 Chao Shang, Peng Qi, Guangtao Wang, Jing Huang, Youzheng Wu, and Bowen Zhou.

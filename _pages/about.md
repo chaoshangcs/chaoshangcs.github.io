@@ -29,18 +29,19 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 <!-- * Proposed an end-to-end learning framework which utilizes cross-domain knowledge and graph structure to construct the
 taxonomy of missing domain. -->
-<!-- * Knowledge Induction Team @ IBM Research AI -->
+* Knowledge Induction Team @ IBM Research AI
 
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 <!-- * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. -->
-<!-- * SAIL-JD Knowledge Graph Research Program -->
+* SAIL-JD Knowledge Graph Research Program
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 <!-- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
-* Supervisor: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/)
+* Supervisors: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) 
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
+* Supervisors: [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/)
 <!-- * Developed effective knowledge discovery and data mining techniques for emerging unstructured data. -->
 
 <!--

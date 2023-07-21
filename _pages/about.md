@@ -29,12 +29,12 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 **05/2019 - 09/2019 | Research Intern | IBM Thomas J. Watson Research Center, IBM Research**
 <!-- * Proposed an end-to-end learning framework which utilizes cross-domain knowledge and graph structure to construct the
 taxonomy of missing domain. -->
-* Knowledge Induction Team @ IBM Research AI
+<!-- * Knowledge Induction Team @ IBM Research AI -->
 
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 <!-- * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. -->
-* SAIL-JD Knowledge Graph Research Program
+<!-- * SAIL-JD Knowledge Graph Research Program -->
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 <!-- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
@@ -100,7 +100,7 @@ others
 
 __[Diable: Efficient Dialogue State Tracking as Operations on Tables](https://arxiv.org/abs/2305.17020)__  
 Pietro Lesci, Yoshinari Fujinuma, Momchil Hardalov, Chao Shang, Lluis Marquez. 
-The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023. (Findings)
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023. (Findings) [Code(https://github.com/amazon-science/efficient-dialogue-state-tracking-by-sequential-information-processing)]
 
 __[Automatic depression screening using social interaction data on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000903)__  
 Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Dongjin Song, Athanasios Bamis, Bing Wang. 

@@ -38,8 +38,7 @@ taxonomy of missing domain. -->
 
 **09/2015 - 08/2020 | Research Assistant | University of Connecticut**
 <!-- * Designed graph neural networks, NLP, machine learning methods to improve drug discovery, knowledge graph completion, depression detection and so on. -->
-* Supervisor: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) 
-* Supervised by [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) for a year.
+* Supervisor: [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/) and Supervised by [Prof. Fei Wang](https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en) for a year.
 
 **07/2014 - 11/2014 | Research Assistant | University of Southern California**  
 * Supervisor: [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/)

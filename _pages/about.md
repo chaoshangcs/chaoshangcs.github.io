@@ -101,7 +101,7 @@ others
 
 __[Diable: Efficient Dialogue State Tracking as Operations on Tables](https://arxiv.org/abs/2305.17020)__  
 Pietro Lesci, Yoshinari Fujinuma, Momchil Hardalov, Chao Shang, Lluis Marquez. 
-The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023. (Findings) [Code(https://github.com/amazon-science/efficient-dialogue-state-tracking-by-sequential-information-processing)]
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023. (Findings) [Code](https://github.com/amazon-science/efficient-dialogue-state-tracking-by-sequential-information-processing)
 
 __[Automatic depression screening using social interaction data on smartphones](https://www.sciencedirect.com/science/article/abs/pii/S2352648322000903)__  
 Shweta Ware, Chaoqun Yue, Reynaldo Morillo, Chao Shang, Jinbo Bi, Jayesh Kamath, Alexander Russell, Dongjin Song, Athanasios Bamis, Bing Wang. 

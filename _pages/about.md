@@ -99,7 +99,7 @@ others
 
 ## Publications
 __[From Instructions to Constraints: Language Model Alignment with Automatic Constraint Verification](https://arxiv.org/abs/2403.06326)__  
-Fei Wang, Chao Shang , Sarthak Jain , Shuai Wang , Qiang Ning , Bonan Min , Vittorio Castelli , Yassine Benajiba , and Dan Roth.
+Fei Wang, Chao Shang, Sarthak Jain, Shuai Wang, Qiang Ning, Bonan Min, Vittorio Castelli, Yassine Benajiba, Dan Roth.
 arXiv, 2024.
 
 __[Diable: Efficient Dialogue State Tracking as Operations on Tables](https://arxiv.org/abs/2305.17020)__  

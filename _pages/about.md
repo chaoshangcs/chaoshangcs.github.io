@@ -213,7 +213,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * Reviewer of Journal of Health Information Science and Systems.
 * Reviewer of ACS Omega.
 * Reviewer of PLOS ONE journal.
-* External Reviewer: KDD'19; KDD'18; AAAI'18 and so on.
+<!--* More: KDD'19; KDD'18; AAAI'18 and so on.-->
 
 ### Session Chair
 * SR1: Graph Neural Networks, CIKM 2019.

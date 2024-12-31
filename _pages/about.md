@@ -203,7 +203,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * 2022 - Program Committee Member of EMNLP, IJCAI, ACL, AAAI.
 * 2021 - Program Committee Member of ACL, NAACL, EMNLP, IJCAI, AAAI, EACL.
 * 2020 - Program Committee Member of EMNLP, ACL, IJCAI, CIKM.
-* 2010 - Program Committee Member of CIKM, ECML-PKDD, IJCAI.
+* 2019 - Program Committee Member of CIKM, ECML-PKDD, IJCAI.
 * Reviewer of ACL Rolling Review.
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 * Reviewer of Transactions on Knowledge and Data Engineering (TKDE).

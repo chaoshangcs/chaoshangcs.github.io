@@ -235,11 +235,11 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * CSE-1010 Introduction to Computing for Engineers (09/2016-05/2017)
 * CSE-5820 Machine Learning (01/2017-05/2017)
 
-
+<!--
 ## Contact
 Email: shangchaocs AT gmail.com 
 
-<!--
+
 KDD 2023
 ## X Machine Learning(XML) Group
 [The X Machine Learning (XML) group](https://xmachinelearning.github.io/) focuses on machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics and bioinformatics. 

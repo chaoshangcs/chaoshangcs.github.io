@@ -197,7 +197,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 ## Professional Services
 
 ### Program Committee / Reviewer
-* 2025 - Program Committee Member of AAAI, NeurIPS, COLING, IJCAI, COLM, ICML.
+* 2025 - Program Committee Member of AAAI, NeurIPS, COLING, IJCAI, COLM.
 * 2024 - Program Committee Member of AAAI, LREC-COLING, IJCAI, NeurIPS，COLM, EMNLP.
 * 2023 - Program Committee Member of AAAI, IJCAI, ACL, EMNLP. 
 * 2022 - Program Committee Member of EMNLP, IJCAI, ACL, AAAI.

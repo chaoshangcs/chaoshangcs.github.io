@@ -16,7 +16,8 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 
 ## Experience
 **06/2022 - Present | Applied Scientist | Amazon AWS AI**
-* Large Language Models - AI Foundation Models @ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
+* Build high-performing large language models @ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
+* Build safeguards for generative AI applications @ [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/)
 
 **09/2020 - 05/2022 | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**
 <!--  * Focus on the deep graph learning, NLP and machine learning with an emphasis on knowledge graphs and QA. -->

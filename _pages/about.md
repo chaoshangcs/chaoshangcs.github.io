@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Scientist at [Amazon AWS AI](https://www.amazon.science/). 
+I am a Senior Applied Scientist at [Amazon AWS AI](https://www.amazon.science/). 
 My research interests lie primarily in deep graph learning, natural language processing and machine learning using large-scale graph-structured and text datasets, with an emphasis on Large Language Models (LLMs), knowledge graphs, question answering, and drug discovery. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). 
 <!--
 Before joining Amazon, I was a Research Scientist at JD AI Research. 
@@ -15,7 +15,7 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 -->
 
 ## Experience
-**06/2022 - Present | Applied Scientist | Amazon AWS AI**
+**06/2022 - Present | Senior Applied Scientist | Amazon AWS AI**
 * Develop high-performance large language models and customized solutions @ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 * Build safeguards for generative AI applications @ [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/)
 

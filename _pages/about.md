@@ -198,7 +198,6 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 ## Professional Services
 
 ### Program Committee / Reviewer
-* Program Committee Member of ACL, ICLR, NeurIPS, EMNLP, NAACL, AAAI, COLING, IJCAI, COLM, IJCAI, EACL, CIKM, ECML-PKDD.
 <!--
 * 2026 - Program Committee Member of AAAI, ICLR.
 * 2025 - Program Committee Member of AAAI, NeurIPS, COLING, IJCAI, COLM.
@@ -209,6 +208,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * 2020 - Program Committee Member of EMNLP, ACL, IJCAI, CIKM.
 * 2019 - Program Committee Member of CIKM, ECML-PKDD, IJCAI.
 -->
+* Program Committee Member of ACL, ICLR, NeurIPS, EMNLP, NAACL, AAAI, COLING, IJCAI, COLM, IJCAI, EACL, CIKM, ECML-PKDD.
 * Reviewer of ACL Rolling Review.
 * Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 * Reviewer of Transactions on Knowledge and Data Engineering (TKDE).

@@ -208,20 +208,8 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * 2020 - Program Committee Member of EMNLP, ACL, IJCAI, CIKM.
 * 2019 - Program Committee Member of CIKM, ECML-PKDD, IJCAI.
 -->
-* Program Committee Member of ACL, ICLR, NeurIPS, EMNLP, NAACL, AAAI, COLING, IJCAI, COLM, IJCAI, EACL, CIKM, ECML-PKDD.
-* Reviewer of ACL Rolling Review.
-* Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-* Reviewer of Transactions on Knowledge and Data Engineering (TKDE).
-* Reviewer of Neurocomputing.
-* Reviewer of Transactions on Audio, Speech, and Language Processing.
-* Reviewer of Artificial Intelligence Review.
-* Reviewer of Journal of Artificial Intelligence Research (JAIR).
-* Reviewer of Journal of Chemical Information and Modeling (JCIM).
-* Reviewer of IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB).
-* Reviewer of American Medical Informatics Association (AMIA) Clinical Informatics Conference. 
-* Reviewer of Journal of Health Information Science and Systems.
-* Reviewer of ACS Omega.
-* Reviewer of PLOS ONE journal.
+* Conferences: ACL, ICLR, NeurIPS, EMNLP, NAACL, AAAI, COLING, IJCAI, COLM, IJCAI, EACL, CIKM, ECML-PKDD, AMIA, ACL Rolling Review.
+* Journals: IEEE Transactions on Neural Networks and Learning Systems (TNNLS); Transactions on Knowledge and Data Engineering (TKDE); Neurocomputing; Transactions on Audio, Speech, and Language Processing; Artificial Intelligence Review; Journal of Artificial Intelligence Research (JAIR); Journal of Chemical Information and Modeling (JCIM); IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB); Journal of Health Information Science and Systems; ACS Omega; PLOS ONE.
 <!--* More: KDD'19; KDD'18; AAAI'18 and so on.-->
 
 ### Session Chair

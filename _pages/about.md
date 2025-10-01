@@ -99,6 +99,9 @@ others
 -->
 
 ## Publications
+__[Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate](https://www.arxiv.org/abs/2509.23055)__  
+Binwei Yao, Chao Shang, Wanyu Du, Jianfeng He, Ruixue Lian, Yi Zhang, Hang Su, Sandesh Swamy, Yanjun Qi. arXiv, 2025.
+
 __[Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models](https://arxiv.org/abs/2410.09047)__  
 Qin Liu, Chao Shang, Ling Liu, Nikolaos Pappas, Jie Ma, Neha Anna John, Srikanth Doss, Lluis Marquez, Miguel Ballesteros, Yassine Benajiba.
 ACL Findings, 2025.

@@ -102,7 +102,7 @@ others
 __[Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate](https://www.arxiv.org/abs/2509.23055)__  
 Binwei Yao, Chao Shang, Wanyu Du, Jianfeng He, Ruixue Lian, Yi Zhang, Hang Su, Sandesh Swamy, Yanjun Qi. arXiv, 2025.
 
-__[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/pdf/2509.25624)__
+__[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/pdf/2509.25624)__  
 Jing-Jing Li, Jianfeng He, Chao Shang, Devang Kulshreshtha, Xun Xian, Yi Zhang, Hang Su, Sandesh Swamy, and Yanjun Qi. arXiv, 2025.
 
 __[Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models](https://arxiv.org/abs/2410.09047)__  

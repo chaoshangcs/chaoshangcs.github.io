@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a Senior Applied Scientist at [Amazon AWS AI](https://www.amazon.science/). 
-My research interests lie primarily in deep graph learning, natural language processing and machine learning using large-scale graph-structured and text datasets, with an emphasis on LLM safety, LLM finetuning, and knowledge graphs. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). 
+My research centers on natural language processing and deep graph learning, with a focus on advancing LLM and agent safety mechanisms, designing efficient LLM finetuning methodologies, and constructing knowledge graphs for reasoning. I received my Ph.D. from the Computer Science and Engineering Department, [University of Connecticut](https://uconn.edu/), advised by [Prof. Jinbo Bi](http://www.engr.uconn.edu/~jinbo/). I got my M.S. degree at Beijing University of Posts and Telecommunications (BUPT). 
 <!--
 Before joining Amazon, I was a Research Scientist at JD AI Research. 
 I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Watson Research Center, JD AI Research and University of Southern California.
@@ -31,7 +31,6 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 <!-- * Proposed an end-to-end learning framework which utilizes cross-domain knowledge and graph structure to construct the
 taxonomy of missing domain. -->
 * Knowledge Induction Team @ IBM Research AI
-
 
 **05/2018 - 09/2018 | Research Intern | JD AI Research, JD.COM Silicon Valley Research Center**
 <!-- * Proposed a novel end-to-end structure-aware convolutional network which incorporates graph connectivity structure seamlessly into a new convolutional translating embedding model for knowledge graph completion. -->
@@ -104,11 +103,11 @@ others
 __[Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate](https://www.arxiv.org/abs/2509.23055)__  
 Binwei Yao, Chao Shang, Wanyu Du, Jianfeng He, Ruixue Lian, Yi Zhang, Hang Su, Sandesh Swamy, Yanjun Qi. arXiv, 2025.
 
-__[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/pdf/2509.25624)__  
-Jing-Jing Li, Jianfeng He, Chao Shang, Devang Kulshreshtha, Xun Xian, Yi Zhang, Hang Su, Sandesh Swamy, and Yanjun Qi. arXiv, 2025.
-
 __[Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation](https://arxiv.org/abs/2510.22067)__  
 Zheng Qi, Chao Shang, Evangelia Spiliopoulou, Nikolaos Pappas. arXiv, 2025.
+
+__[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/pdf/2509.25624)__  
+Jing-Jing Li, Jianfeng He, Chao Shang, Devang Kulshreshtha, Xun Xian, Yi Zhang, Hang Su, Sandesh Swamy, and Yanjun Qi. arXiv, 2025.
 
 __[Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models](https://arxiv.org/abs/2410.09047)__  
 Qin Liu, Chao Shang, Ling Liu, Nikolaos Pappas, Jie Ma, Neha Anna John, Srikanth Doss, Lluis Marquez, Miguel Ballesteros, Yassine Benajiba.

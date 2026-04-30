@@ -100,12 +100,11 @@ others
 
 ## Publications
 
+__[Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation](https://arxiv.org/abs/2510.22067)__  
+Zheng Qi, Chao Shang, Evangelia Spiliopoulou, Nikolaos Pappas. ICML, 2026.
 
 __[Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate](https://www.arxiv.org/abs/2509.23055)__  
 Binwei Yao, Chao Shang, Wanyu Du, Jianfeng He, Ruixue Lian, Yi Zhang, Hang Su, Sandesh Swamy, Yanjun Qi. arXiv, 2025.
-
-__[Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation](https://arxiv.org/abs/2510.22067)__  
-Zheng Qi, Chao Shang, Evangelia Spiliopoulou, Nikolaos Pappas. arXiv, 2025.
 
 __[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/pdf/2509.25624)__  
 Jing-Jing Li, Jianfeng He, Chao Shang, Devang Kulshreshtha, Xun Xian, Yi Zhang, Hang Su, Sandesh Swamy, and Yanjun Qi. arXiv, 2025.
@@ -204,11 +203,14 @@ International Conference on Database and Expert Systems Applications (DEXA), 201
 
 __[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
 Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.   
-International Journal of Distributed Sensor Networks (IJDSN), 2014	.
+International Journal of Distributed Sensor Networks (IJDSN), 2014.
 
 ## Professional Services
 
 ### Program Committee / Reviewer
+* Conferences: ACL, ICLR, NeurIPS, EMNLP, NAACL, AAAI, COLING, IJCAI, COLM, IJCAI, EACL, CIKM, ECML-PKDD, AMIA, ACL Rolling Review.
+* Journals: IEEE Transactions on Neural Networks and Learning Systems (TNNLS); Transactions on Knowledge and Data Engineering (TKDE); Neurocomputing; Transactions on Audio, Speech, and Language Processing; Artificial Intelligence Review; Journal of Artificial Intelligence Research (JAIR); Journal of Chemical Information and Modeling (JCIM); IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB); Journal of Health Information Science and Systems; ACS Omega; PLOS ONE.
+* 
 <!--
 * 2026 - Program Committee Member of AAAI, ICLR.
 * 2025 - Program Committee Member of AAAI, NeurIPS, COLING, IJCAI, COLM.
@@ -219,10 +221,8 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 * 2020 - Program Committee Member of EMNLP, ACL, IJCAI, CIKM.
 * 2019 - Program Committee Member of CIKM, ECML-PKDD, IJCAI.
 -->
-* Conferences: ACL, ICLR, NeurIPS, EMNLP, NAACL, AAAI, COLING, IJCAI, COLM, IJCAI, EACL, CIKM, ECML-PKDD, AMIA, ACL Rolling Review.
-* Journals: IEEE Transactions on Neural Networks and Learning Systems (TNNLS); Transactions on Knowledge and Data Engineering (TKDE); Neurocomputing; Transactions on Audio, Speech, and Language Processing; Artificial Intelligence Review; Journal of Artificial Intelligence Research (JAIR); Journal of Chemical Information and Modeling (JCIM); IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB); Journal of Health Information Science and Systems; ACS Omega; PLOS ONE.
 <!--* More: KDD'19; KDD'18; AAAI'18 and so on.-->
-
+<!--
 ### Session Chair
 * SR1: Graph Neural Networks, CIKM 2019.
 
@@ -238,7 +238,7 @@ International Journal of Distributed Sensor Networks (IJDSN), 2014	.
 ## Teaching Experience
 * CSE-1010 Introduction to Computing for Engineers (09/2016-05/2017)
 * CSE-5820 Machine Learning (01/2017-05/2017)
-
+-->
 <!--
 ## Contact
 Email: shangchaocs AT gmail.com 

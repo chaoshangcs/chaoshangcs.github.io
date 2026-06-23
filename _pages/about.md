@@ -201,9 +201,11 @@ __[Event Extraction from Unstructured Text Data](https://link.springer.com/chapt
 Chao Shang, Anand Panangadan, and Victor K. Prasanna.   
 International Conference on Database and Expert Systems Applications (DEXA), 2015.
 
+<!--
 __[A carrier class IoT service architecture integrating IMS with SWE](http://journals.sagepub.com/doi/full/10.1155/2014/930472)__  
 Dongliang Xie, Chao Shang, Jinchao Chen, Yongfang Lai, and Chuanxiao Pang.   
 International Journal of Distributed Sensor Networks (IJDSN), 2014.
+-->
 
 ## Professional Services
 

@@ -17,7 +17,7 @@ I also have spent some time interning in MIT-IBM Watson AI Lab, IBM Thomas J. Wa
 ## Experience
 **06/2022 - Present | Senior Applied Scientist | Amazon AWS AI**
 * Lead the design and development of agent safety and governance capabilities @ [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)
-* Develop safety guardrails that help organizations build secure and responsible generative AI applications @ [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/)
+* Build safety guardrails for secure and responsible generative AI applications @ [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/)
 * Train high-performance large language models and deliver customized foundation model solutions @ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 
 **09/2020 - 05/2022 | Research Scientist | JD AI Research, JD.COM Silicon Valley Research Center**

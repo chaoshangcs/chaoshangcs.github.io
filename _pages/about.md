@@ -99,6 +99,9 @@ others
 -->
 
 ## Publications
+__[Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2608.03239)__  
+Ming Shen, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi. arXiv, 2026
+
 __[RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning](https://arxiv.org/abs/2607.14512)__  
 Yanqiao Zhu, Jingru Gan, Xiaoqi Sun, Fang Sun, Yidan Shi, Md Mofijul Islam, Chao Shang, Wenhao Gao, Connor W. Coley, Yizhou Sun, Wei Wang. COLM, 2026.
 

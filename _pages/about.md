@@ -100,7 +100,7 @@ others
 
 ## Publications
 __[Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2608.03239)__  
-Ming Shen, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi. arXiv, 2026
+Ming Shen, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi. AACL-IJCNLP, 2026
 
 __[RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning](https://arxiv.org/abs/2607.14512)__  
 Yanqiao Zhu, Jingru Gan, Xiaoqi Sun, Fang Sun, Yidan Shi, Md Mofijul Islam, Chao Shang, Wenhao Gao, Connor W. Coley, Yizhou Sun, Wei Wang. COLM, 2026.
@@ -112,7 +112,7 @@ __[Peacemaker or Troublemaker: How Sycophancy Shapes Multi-Agent Debate](https:/
 Binwei Yao, Chao Shang, Wanyu Du, Jianfeng He, Ruixue Lian, Yi Zhang, Hang Su, Sandesh Swamy, Yanjun Qi. arXiv, 2025.
 
 __[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/pdf/2509.25624)__  
-Jing-Jing Li, Jianfeng He, Chao Shang, Devang Kulshreshtha, Xun Xian, Yi Zhang, Hang Su, Sandesh Swamy, and Yanjun Qi. arXiv, 2025.
+Jing-Jing Li, Jianfeng He, Chao Shang, Devang Kulshreshtha, Xun Xian, Yi Zhang, Hang Su, Sandesh Swamy, and Yanjun Qi. REALM Workshop, EMNLP 2026.
 
 __[Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models](https://arxiv.org/abs/2410.09047)__  
 Qin Liu, Chao Shang, Ling Liu, Nikolaos Pappas, Jie Ma, Neha Anna John, Srikanth Doss, Lluis Marquez, Miguel Ballesteros, Yassine Benajiba.
